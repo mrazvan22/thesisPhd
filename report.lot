@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Comparison of features of various disease progression models.}}{69}{table.caption.37}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Demographic details for participants in the PCA study}}{73}{table.caption.38}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Baseline population demographics for PCA subgroups}}{74}{table.caption.39}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Baseline population demographics for DRC data}}{90}{table.caption.46}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Baseline population demographics for the ADNI cohort.}}{91}{table.caption.47}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Model performance according to staging-based metrics on PCA subjects from the DRC cohort}}{92}{table.caption.48}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Model performance according to staging-based metrics on typical AD subjects from the DRC cohort.}}{93}{table.caption.49}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Model performance at diagnosis prediction on DRC data.}}{93}{table.caption.50}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Model performance according to staging metrics on ADNI data.\relax }}{94}{table.caption.51}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Model performance at prediction of conversion from MCI to AD on ADNI data.\relax }}{94}{table.caption.52}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Demographics of the four cohorts from ADNI and DRC}}{110}{table.caption.55}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Performance evaluation of DIVE and two simplified models on the ADNI MRI dataset}}{117}{table.caption.60}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Performance evaluation of DKT and other models}}{134}{table.caption.67}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces The format of the forecasts for three example subjects. Participants have to predict, for each subject, the probability of clinical diagnosis (CN/MCI/AD), the ADAS-Cog13 score and Ventricle volume, as well as the 50\% confidence range. RID - Roster ID is the unique identifier for ADNI subjects, ADAS - ADAS-Cog13, CI - confidence range. Note that, even if the CN/MCI/AD probabilities don't sum to one, we will normalise them anyway.\relax }}{140}{table.caption.69}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Subject statistics and available data in the TADPOLE datasets D1, D2, D3 and D4.}}{143}{table.caption.71}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Types of TADPOLE submissions that can be made by participants.}}{144}{table.caption.72}
+\contentsline {table}{\numberline {8.4}{\ignorespaces TADPOLE prize allocation scheme using funds from AD charities}}{147}{table.caption.73}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of PCA subjects at -10 years before$t_0$}}{165}{table.caption.80}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of PCA subjects at $t_0$}}{165}{table.caption.81}
+\contentsline {table}{\numberline {A.3}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of PCA subjects at 10 years after $t_0$.}}{165}{table.caption.82}
+\contentsline {table}{\numberline {A.4}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of tAD subjects at -10 years before $t_0$.}}{166}{table.caption.83}
+\contentsline {table}{\numberline {A.5}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of tAD subjects at $t_0$.}}{166}{table.caption.84}
+\contentsline {table}{\numberline {A.6}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions of tAD subjects at 10 years after $t_0$.}}{166}{table.caption.85}
+\contentsline {table}{\numberline {A.7}{\ignorespaces Statistical testing for significant differences in volumes of different brain regions between PCA and tAD at -10, 0 and 10 years from $t_0$.}}{167}{table.caption.86}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Comparison of DIVE with two more simplistic models on the ADNI MRI dataset.}}{173}{table.caption.90}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

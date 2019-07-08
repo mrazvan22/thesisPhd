@@ -1,0 +1,62 @@
+\begin{subfigure}[b]{0.223\textwidth}
+\centering
+f=1
+\includegraphics[width=\linewidth, trim=22 0 35 20,clip]{\adniThickCVFolder/f0/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f0.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=2
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f1/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f1.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=3
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f2/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f2.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=4
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f3/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f3.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=5
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f4/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f4.png}
+\end{subfigure}%    <-- % added here
+\hfill
+
+
+\begin{subfigure}[b]{0.223\textwidth}
+\centering
+f=6
+\includegraphics[width=\linewidth, trim=22 0 35 20,clip]{\adniThickCVFolder/f5/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f5.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=7
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f6/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f6.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=8
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f7/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f7.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=9
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f8/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f8.png}
+\end{subfigure}%    <-- % added here
+\hfill
+\begin{subfigure}[b]{0.185\textwidth}
+\centering
+f=10
+\includegraphics[width=\linewidth, trim=75 0 35 20,clip]{\adniThickCVFolder/f9/trajSamplesOneFig_cogCorr_\adniThickCVExpName_f9.png}
+\end{subfigure}%    <-- % added here
+\hfill

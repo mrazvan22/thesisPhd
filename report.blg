@@ -1,0 +1,212 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: background_research.aux
+A level-1 auxiliary file: pcaProg.aux
+A level-1 auxiliary file: perf_eval.aux
+A level-1 auxiliary file: voxelwise.aux
+A level-1 auxiliary file: dkt.aux
+A level-1 auxiliary file: tadpole.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: appendix.aux
+The style file: unsrt.bst
+Reallocated field_info (elt_size=4) to 11785 items from 5000.
+Database file #1: citations.bib
+Repeated entry---line 982 of file citations.bib
+ : @article{sabuncu2011dynamics
+ :                             ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1019 of file citations.bib
+ :   author={Raj, Ashish and LoCastro, Eve and Kuceyeski, Amy and Tosun, Duygu and Relkin, Norman and Weiner, Michael and {Alzheimer's} Disease Neuroimaging Initiative} 
+ :                                                                                                                                                                       and others},
+I'm skipping whatever remains of this entry
+Repeated entry---line 1367 of file citations.bib
+ : @article{scahill2002mapping
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1377 of file citations.bib
+ : @article{yang2011quantifying
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1387 of file citations.bib
+ : @article{sabuncu2011dynamics
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1416 of file citations.bib
+ : @article{kloppel2008automatic
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1436 of file citations.bib
+ : @article{young2013accurate
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1455 of file citations.bib
+ : @article{fonteijn2012event
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1465 of file citations.bib
+ : @article{young2014data
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1475 of file citations.bib
+ : @article{jedynak2012computational
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1485 of file citations.bib
+ : @article{donohue2014estimating
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1515 of file citations.bib
+ : @article{bilgel2016multivariate
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1524 of file citations.bib
+ : @article{seeley2009neurodegenerative
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1534 of file citations.bib
+ : @article{zhou2012predicting
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1544 of file citations.bib
+ : @article{raj2012network
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1598 of file citations.bib
+ : @article{reuter2012within
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1791 of file citations.bib
+ : @article{seeley2009neurodegenerative
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1821 of file citations.bib
+ : @article{galton2000atypical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1851 of file citations.bib
+ : @article{benson1988posterior
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1871 of file citations.bib
+ : @article{ross1996progressive
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1891 of file citations.bib
+ : @article{hof1997atypical
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2018 of file citations.bib
+ : @article{goethals2001posterior
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2096 of file citations.bib
+ : @article{tang2004clinical
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2136 of file citations.bib
+ : @article{cardoso2015geodesic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2214 of file citations.bib
+ : @article{galton2000atypical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2264 of file citations.bib
+ : @article{cardoso2015geodesic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2389 of file citations.bib
+ : @article{caroli2010dynamics
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2399 of file citations.bib
+ : @article{sabuncu2011dynamics
+ :                             ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 2544 of file citations.bib
+ : @article{mudher2002alzheimer
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2949 of file citations.bib
+ : @article{chibnik2011cr1
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2979 of file citations.bib
+ : @article{iturria2016early
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3175 of file citations.bib
+ : @article{zhou2012predicting
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3265 of file citations.bib
+ : @article{goethals2001posterior
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3365 of file citations.bib
+ : @article{ridha2006tracking
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3574 of file citations.bib
+ : @article{georgiadis2018computational
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3857 of file citations.bib
+ : @article{ossenkoppele2016tau
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3887 of file citations.bib
+ : @article{iturria2016early
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in ahlskog2011physical
+Warning--empty journal in raj2015network
+Warning--empty year in raj2015network
+Warning--empty journal in cardoso2015geodesic
+Warning--empty journal in platt1998sequential
+Warning--empty journal in rey1958examen
+You've used 375 entries,
+            1789 wiz_defined-function locations,
+            2334 strings with 97151 characters,
+and the built_in function-call counts, 110598 in all, are:
+= -- 8945
+> -- 7728
+< -- 32
++ -- 2711
+- -- 2336
+* -- 10000
+:= -- 18539
+add.period$ -- 1139
+call.type$ -- 375
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 381
+duplicate$ -- 3666
+empty$ -- 9106
+format.name$ -- 2336
+if$ -- 23167
+int.to.chr$ -- 0
+int.to.str$ -- 375
+missing$ -- 371
+newline$ -- 1873
+num.names$ -- 374
+pop$ -- 581
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1515
+stack$ -- 0
+substring$ -- 8812
+swap$ -- 655
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 1058
+width$ -- 378
+write$ -- 4106
+(There were 37 error messages)

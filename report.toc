@@ -1,0 +1,251 @@
+\contentsline {chapter}{List of Figures}{15}{chapter*.5}
+\contentsline {chapter}{List of Tables}{17}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Introduction}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}Alzheimer's Disease}{19}{section.1.1}
+\contentsline {section}{\numberline {1.2}Posterior Cortical Atrophy}{19}{section.1.2}
+\contentsline {section}{\numberline {1.3}Disease Progression Models}{20}{section.1.3}
+\contentsline {section}{\numberline {1.4}Problem Statement}{21}{section.1.4}
+\contentsline {section}{\numberline {1.5}Justification}{21}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Longitudinal Modelling of Posterior Cortical Atrophy}{21}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Current Disease Progression Models Cannot Model Complex Dynamics}{21}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Comparative Performance of Different Disease Progression Models}{22}{subsection.1.5.3}
+\contentsline {section}{\numberline {1.6}Thesis Contributions}{22}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Longitudinal Neuroanatomical Progression of Posterior Cortical Atrophy}{22}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}DIVE: A Spatiotemporal Progression Model of Brain Pathology in Neurodegenerative Disorders}{23}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Disease Knowledge Transfer across Neurodegenerative Diseases}{23}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Novel Extensions to the Event-based Model and Differential Equation Model}{24}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}TADPOLE Challenge: Prediction of Longitudinal Evolution in Alzheimer's Disease}{24}{subsection.1.6.5}
+\contentsline {section}{\numberline {1.7}Thesis Structure}{24}{section.1.7}
+\contentsline {chapter}{\numberline {2}Background -- Alzheimer's Disease}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}Alzheimer's Disease}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Symptoms}{27}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}Pre-dementia Phase}{28}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}Mild Dementia Stage}{28}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}Moderate Dementia Stage}{28}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}Severe Dementia Stage}{28}{subsubsection.2.1.1.4}
+\contentsline {subsection}{\numberline {2.1.2}Disease Causes and Mechanisms}{28}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}Amyloid Hypothesis}{29}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Tau Hypothesis}{30}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Cholinergic Hypothesis}{30}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}Vascular Hypothesis}{30}{subsubsection.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.2.5}Genetic Causes}{30}{subsubsection.2.1.2.5}
+\contentsline {subsection}{\numberline {2.1.3}Other Risk Factors}{32}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Biomarkers}{32}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Cognitive Tests}{33}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Magnetic Resonance Imaging}{34}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}Positron Emission Tomography}{35}{subsubsection.2.1.4.3}
+\contentsline {subsubsection}{\numberline {2.1.4.4}Diffusion Tensor Imaging}{36}{subsubsection.2.1.4.4}
+\contentsline {subsubsection}{\numberline {2.1.4.5}Cerebrospinal Fluid Markers}{37}{subsubsection.2.1.4.5}
+\contentsline {subsection}{\numberline {2.1.5}Diagnosis}{38}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Progression of Alzheimer's Disease}{38}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Braak Staging}{38}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Neuroimaging}{39}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Posterior Cortical Atrophy}{39}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Symptoms}{39}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Causes}{41}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Diagnosis}{41}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Management}{41}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Neuroimaging}{42}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Heterogeneity}{42}{subsection.2.3.6}
+\contentsline {chapter}{\numberline {3}Background -- Disease Progression Models}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}Hypothetical Models}{46}{section.3.1}
+\contentsline {section}{\numberline {3.2}Models of Progression using Symptomatic Groups}{47}{section.3.2}
+\contentsline {section}{\numberline {3.3}Regression Against One Biomarker}{47}{section.3.3}
+\contentsline {section}{\numberline {3.4}Survival Analysis Models}{48}{section.3.4}
+\contentsline {section}{\numberline {3.5}Scalar Biomarker Models}{48}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}The Event-Based Model}{49}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}Theory}{50}{subsubsection.3.5.1.1}
+\contentsline {subsubsection}{\numberline {3.5.1.2}Event Sequence Estimation}{50}{subsubsection.3.5.1.2}
+\contentsline {subsubsection}{\numberline {3.5.1.3}Mixture Models for Data Likelihood}{51}{subsubsection.3.5.1.3}
+\contentsline {subsubsection}{\numberline {3.5.1.4}Patient Staging and Diagnosis Prediction}{52}{subsubsection.3.5.1.4}
+\contentsline {subsubsection}{\numberline {3.5.1.5}Discussion}{53}{subsubsection.3.5.1.5}
+\contentsline {subsubsection}{\numberline {3.5.1.6}Advantages and Limitations}{53}{subsubsection.3.5.1.6}
+\contentsline {subsection}{\numberline {3.5.2}Differential Equation Model}{53}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}Advantages and Limitations}{55}{subsubsection.3.5.2.1}
+\contentsline {subsection}{\numberline {3.5.3}The Disease Progression Score Model}{55}{subsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.3.1}Model Fitting}{57}{subsubsection.3.5.3.1}
+\contentsline {subsubsection}{\numberline {3.5.3.2}Advantages and Limitations}{57}{subsubsection.3.5.3.2}
+\contentsline {subsection}{\numberline {3.5.4}The Self-Modelling Regression Model}{58}{subsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.4.1}Parameter Fitting}{58}{subsubsection.3.5.4.1}
+\contentsline {subsubsection}{\numberline {3.5.4.2}Advantages and limitations}{59}{subsubsection.3.5.4.2}
+\contentsline {subsection}{\numberline {3.5.5}The Manifold-based Mixed Effects Model}{59}{subsection.3.5.5}
+\contentsline {subsubsection}{\numberline {3.5.5.1}Advantages and Limitations}{60}{subsubsection.3.5.5.1}
+\contentsline {section}{\numberline {3.6}Spatiotemporal Disease Progression Models}{60}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}The Voxelwise Disease Progression Model}{61}{subsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.1.1}Model Fitting}{62}{subsubsection.3.6.1.1}
+\contentsline {subsubsection}{\numberline {3.6.1.2}Advantages and Limitations}{63}{subsubsection.3.6.1.2}
+\contentsline {subsection}{\numberline {3.6.2}Cortical Atrophy Progression Model}{63}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Parameter Estimation}{64}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Advantages and Limitations}{64}{subsection.3.6.4}
+\contentsline {section}{\numberline {3.7}Mechanistic Models}{65}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}The Network Diffusion Model}{65}{subsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.1.1}Advantages and Limitations}{67}{subsubsection.3.7.1.1}
+\contentsline {section}{\numberline {3.8}Machine Learning Methods}{67}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Advantages and Limitations}{67}{subsection.3.8.1}
+\contentsline {section}{\numberline {3.9}Summary}{68}{section.3.9}
+\contentsline {chapter}{\numberline {4}Longitudinal Neuroanatomical Progression of PCA}{71}{chapter.4}
+\contentsline {section}{\numberline {4.1}Publications}{71}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{72}{section.4.2}
+\contentsline {section}{\numberline {4.3}Methods}{72}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Participants}{72}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Image Acquisition and Preprocessing}{75}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Statistical Methods}{75}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}The Event-based Model}{75}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}The Differential Equation Model}{77}{subsubsection.4.3.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3.3}Statistical Tests}{77}{subsubsection.4.3.3.3}
+\contentsline {section}{\numberline {4.4}Results}{78}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Progression of PCA and Typical AD}{78}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Progression of PCA Subgroups}{79}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Discussion}{83}{section.4.5}
+\contentsline {section}{\numberline {4.6}Conclusion}{84}{section.4.6}
+\contentsline {chapter}{\numberline {5}Novel Extensions to the EBM and DEM}{85}{chapter.5}
+\contentsline {section}{\numberline {5.1}Contributions}{85}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{85}{section.5.2}
+\contentsline {section}{\numberline {5.3}Methods}{86}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}EBM Extensions}{86}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}EBM -- Joint MCMC Sampling}{86}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}EBM -- Expectation Maximisation}{87}{subsubsection.5.3.1.2}
+\contentsline {subsection}{\numberline {5.3.2}DEM -- Optimised Trajectory Alignment}{88}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Performance Evaluation}{89}{subsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.3.1}Staging Consistency}{89}{subsubsection.5.3.3.1}
+\contentsline {subsubsection}{\numberline {5.3.3.2}Time-lapse Prediction}{90}{subsubsection.5.3.3.2}
+\contentsline {subsection}{\numberline {5.3.4}Data Preprocessing}{90}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}The Dementia Research Centre Cohort}{90}{subsection.5.3.5}
+\contentsline {subsubsection}{\numberline {5.3.5.1}Image Processing}{90}{subsubsection.5.3.5.1}
+\contentsline {subsection}{\numberline {5.3.6}The Alzheimer's Disease Neuroimaging Initiative Cohort}{91}{subsection.5.3.6}
+\contentsline {subsubsection}{\numberline {5.3.6.1}Image Processing}{91}{subsubsection.5.3.6.1}
+\contentsline {section}{\numberline {5.4}Results}{92}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}DRC Results}{92}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}ADNI Results}{93}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Discussion}{94}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Model Performance on DRC cohort}{94}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Model Performance on ADNI cohort}{95}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Staging-based Metrics}{95}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Diagnosis Prediction Metrics}{96}{subsection.5.5.4}
+\contentsline {section}{\numberline {5.6}Summary}{96}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Limitations and Future Work}{96}{subsection.5.6.1}
+\contentsline {section}{\numberline {5.7}Conclusion}{97}{section.5.7}
+\contentsline {chapter}{\numberline {6}DIVE: A Spatiotemporal Progression Model of Brain Pathology}{99}{chapter.6}
+\contentsline {section}{\numberline {6.1}Publications}{99}{section.6.1}
+\contentsline {section}{\numberline {6.2}Introduction}{99}{section.6.2}
+\contentsline {section}{\numberline {6.3}Methods}{100}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}DIVE Model}{100}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Modelling Subject-specific Parameters}{102}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Modelling Biomarker Trajectory for a Single Vertex}{102}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Modelling Biomarker Trajectories for all Vertices}{103}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Modelling Spatial Correlation}{104}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Fitting the Model using Generalised Expectation-Maximisation}{104}{subsection.6.3.6}
+\contentsline {subsubsection}{\numberline {6.3.6.1}E-step}{105}{subsubsection.6.3.6.1}
+\contentsline {subsubsection}{\numberline {6.3.6.2}M-step}{105}{subsubsection.6.3.6.2}
+\contentsline {subsection}{\numberline {6.3.7}Implementation Details}{107}{subsection.6.3.7}
+\contentsline {subsubsection}{\numberline {6.3.7.1}Parameter Initialisation and Priors}{107}{subsubsection.6.3.7.1}
+\contentsline {subsubsection}{\numberline {6.3.7.2}Estimating the Optimal Number of Clusters}{108}{subsubsection.6.3.7.2}
+\contentsline {subsection}{\numberline {6.3.8}Simulation Experiments}{108}{subsection.6.3.8}
+\contentsline {subsubsection}{\numberline {6.3.8.1}Motivation}{108}{subsubsection.6.3.8.1}
+\contentsline {subsubsection}{\numberline {6.3.8.2}Synthetic Data Generation}{108}{subsubsection.6.3.8.2}
+\contentsline {subsubsection}{\numberline {6.3.8.3}Model Fitting and Evaluation}{109}{subsubsection.6.3.8.3}
+\contentsline {subsection}{\numberline {6.3.9}Data Acquisition and Pre-processing}{109}{subsection.6.3.9}
+\contentsline {subsubsection}{\numberline {6.3.9.1}MRI Preprocessing}{110}{subsubsection.6.3.9.1}
+\contentsline {subsubsection}{\numberline {6.3.9.2}PET Preprocessing}{111}{subsubsection.6.3.9.2}
+\contentsline {subsubsection}{\numberline {6.3.9.3}The MRF Neighbourhood Graph}{111}{subsubsection.6.3.9.3}
+\contentsline {section}{\numberline {6.4}Results}{111}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Results on Synthetic Data}{111}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Results with ADNI and DRC Datasets}{113}{subsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.2.1}Initial Hypotheses}{113}{subsubsection.6.4.2.1}
+\contentsline {subsubsection}{\numberline {6.4.2.2}Results}{113}{subsubsection.6.4.2.2}
+\contentsline {subsection}{\numberline {6.4.3}Model Evaluation}{114}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}Motivation}{114}{subsubsection.6.4.3.1}
+\contentsline {subsubsection}{\numberline {6.4.3.2}Evaluation Procedure}{114}{subsubsection.6.4.3.2}
+\contentsline {subsubsection}{\numberline {6.4.3.3}Evaluation Results}{116}{subsubsection.6.4.3.3}
+\contentsline {section}{\numberline {6.5}Discussion}{118}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Summary and Key Findings}{118}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Limitations and future work}{118}{subsection.6.5.2}
+\contentsline {section}{\numberline {6.6}Conclusion}{119}{section.6.6}
+\contentsline {chapter}{\numberline {7}Disease Knowledge Transfer across Neurodegenerative Diseases}{121}{chapter.7}
+\contentsline {section}{\numberline {7.1}Contributions}{121}{section.7.1}
+\contentsline {section}{\numberline {7.2}Publications}{121}{section.7.2}
+\contentsline {section}{\numberline {7.3}Introduction}{121}{section.7.3}
+\contentsline {section}{\numberline {7.4}Methods}{124}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}DKT Framework}{124}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Modelling Biomarker Trajectories}{125}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Parameter Estimation}{125}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Synthetic Experiment}{126}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}Data Acquisition and Preprocessing}{127}{subsection.7.4.5}
+\contentsline {section}{\numberline {7.5}Results}{128}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Synthetic Results}{128}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Results on TADPOLE and DRC Datasets}{128}{subsection.7.5.2}
+\contentsline {section}{\numberline {7.6}Validation on DTI Data in PCA}{133}{section.7.6}
+\contentsline {section}{\numberline {7.7}Discussion}{134}{section.7.7}
+\contentsline {section}{\numberline {7.8}Conclusion}{135}{section.7.8}
+\contentsline {chapter}{\numberline {8}TADPOLE Challenge: Prediction of Evolution in Alzheimer's Disease}{137}{chapter.8}
+\contentsline {section}{\numberline {8.1}Contributions}{137}{section.8.1}
+\contentsline {section}{\numberline {8.2}Publications}{137}{section.8.2}
+\contentsline {section}{\numberline {8.3}Introduction}{138}{section.8.3}
+\contentsline {section}{\numberline {8.4}Competition Design}{139}{section.8.4}
+\contentsline {section}{\numberline {8.5}Forecasts}{140}{section.8.5}
+\contentsline {section}{\numberline {8.6}Data}{140}{section.8.6}
+\contentsline {subsection}{\numberline {8.6.1}ADNI Data}{141}{subsection.8.6.1}
+\contentsline {subsection}{\numberline {8.6.2}Image Preprocessing}{141}{subsection.8.6.2}
+\contentsline {section}{\numberline {8.7}TADPOLE Datasets}{141}{section.8.7}
+\contentsline {section}{\numberline {8.8}Submissions}{143}{section.8.8}
+\contentsline {section}{\numberline {8.9}Forecast Evaluation}{144}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Clinical Status Prediction}{144}{subsection.8.9.1}
+\contentsline {subsubsection}{\numberline {8.9.1.1}Multiclass Area Under the Receiver Operating Characteristic (ROC) Curve}{144}{subsubsection.8.9.1.1}
+\contentsline {subsubsection}{\numberline {8.9.1.2}Balanced Classification Accuracy}{145}{subsubsection.8.9.1.2}
+\contentsline {subsection}{\numberline {8.9.2}Continuous Feature Predictions}{145}{subsection.8.9.2}
+\contentsline {subsubsection}{\numberline {8.9.2.1}Mean Absolute Error}{145}{subsubsection.8.9.2.1}
+\contentsline {subsubsection}{\numberline {8.9.2.2}Weighted Error Score}{146}{subsubsection.8.9.2.2}
+\contentsline {subsubsection}{\numberline {8.9.2.3}Coverage Probability Accuracy}{146}{subsubsection.8.9.2.3}
+\contentsline {section}{\numberline {8.10}Prizes}{146}{section.8.10}
+\contentsline {section}{\numberline {8.11}Discussion}{147}{section.8.11}
+\contentsline {section}{\numberline {8.12}Conclusion}{148}{section.8.12}
+\contentsline {chapter}{\numberline {9}Conclusions}{149}{chapter.9}
+\contentsline {section}{\numberline {9.1}Summary}{149}{section.9.1}
+\contentsline {section}{\numberline {9.2}Future Research Directions}{151}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Applications to Neurodegenerative Diseases}{151}{subsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.1.1}Posterior Cortical Atrophy}{151}{subsubsection.9.2.1.1}
+\contentsline {subsubsection}{\numberline {9.2.1.2}Typical Alzheimer's disease}{152}{subsubsection.9.2.1.2}
+\contentsline {subsubsection}{\numberline {9.2.1.3}Familial Alzheimer's disease}{152}{subsubsection.9.2.1.3}
+\contentsline {subsubsection}{\numberline {9.2.1.4}Other Alzheimer's variants}{152}{subsubsection.9.2.1.4}
+\contentsline {subsubsection}{\numberline {9.2.1.5}Frontotemporal dementia}{152}{subsubsection.9.2.1.5}
+\contentsline {subsubsection}{\numberline {9.2.1.6}Multiple Sclerosis}{153}{subsubsection.9.2.1.6}
+\contentsline {subsubsection}{\numberline {9.2.1.7}Parkinson's Disease}{153}{subsubsection.9.2.1.7}
+\contentsline {subsubsection}{\numberline {9.2.1.8}Huntington's Disease}{153}{subsubsection.9.2.1.8}
+\contentsline {subsection}{\numberline {9.2.2}Applications to Clinical Trials}{154}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Methodological Developments}{154}{subsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.3.1}Towards Personalised Predictions}{154}{subsubsection.9.2.3.1}
+\contentsline {subsubsection}{\numberline {9.2.3.2}Spatio-temporal Modelling}{155}{subsubsection.9.2.3.2}
+\contentsline {subsubsection}{\numberline {9.2.3.3}Modelling Disease Mechanisms}{155}{subsubsection.9.2.3.3}
+\contentsline {subsubsection}{\numberline {9.2.3.4}Incorporating genetic data}{155}{subsubsection.9.2.3.4}
+\contentsline {subsubsection}{\numberline {9.2.3.5}Incorporating data from other datasets}{156}{subsubsection.9.2.3.5}
+\contentsline {subsubsection}{\numberline {9.2.3.6}Estimating better features}{156}{subsubsection.9.2.3.6}
+\contentsline {subsection}{\numberline {9.2.4}Model Evaluation}{156}{subsection.9.2.4}
+\contentsline {chapter}{\numberline {A}Longitudinal Neuroanatomical Progression of PCA}{157}{appendix.A}
+\contentsline {chapter}{\numberline {B}DIVE: A Spatiotemporal Progression Model of Brain Pathology}{171}{appendix.B}
+\contentsline {section}{\numberline {B.1}Simulations - Error in Estimated Trajectories and DPS}{172}{section.B.1}
+\contentsline {section}{\numberline {B.2}Comparison Between DIVE and Other Models}{172}{section.B.2}
+\contentsline {subsection}{\numberline {B.2.1}Motivation}{172}{subsection.B.2.1}
+\contentsline {subsection}{\numberline {B.2.2}Experiment Design}{173}{subsection.B.2.2}
+\contentsline {subsection}{\numberline {B.2.3}Results}{173}{subsection.B.2.3}
+\contentsline {section}{\numberline {B.3}Derivation of the Generalised EM Algorithm}{173}{section.B.3}
+\contentsline {subsection}{\numberline {B.3.1}E-step}{174}{subsection.B.3.1}
+\contentsline {subsection}{\numberline {B.3.2}M-step}{175}{subsection.B.3.2}
+\contentsline {subsection}{\numberline {B.3.3}Optimising Trajectory Parameters}{176}{subsection.B.3.3}
+\contentsline {subsection}{\numberline {B.3.4}Estimating Subject Time Shifts - $\alpha $, $\beta $}{178}{subsection.B.3.4}
+\contentsline {subsection}{\numberline {B.3.5}Estimating MRF Clique Term - $\lambda $}{179}{subsection.B.3.5}
+\contentsline {section}{\numberline {B.4}Fast DIVE Implementation - Proof of Equivalence}{180}{section.B.4}
+\contentsline {subsection}{\numberline {B.4.1}Trajectory Parameters - $\theta $}{181}{subsection.B.4.1}
+\contentsline {subsection}{\numberline {B.4.2}Fast Implementation}{181}{subsection.B.4.2}
+\contentsline {subsection}{\numberline {B.4.3}Slow Implementation}{181}{subsection.B.4.3}
+\contentsline {subsection}{\numberline {B.4.4}Noise Parameter - $\sigma $}{182}{subsection.B.4.4}
+\contentsline {subsection}{\numberline {B.4.5}Subjects-specific Time Shifts - $\alpha $, $\beta $}{182}{subsection.B.4.5}
+\contentsline {subsection}{\numberline {B.4.6}Fast Implementation}{182}{subsection.B.4.6}
+\contentsline {subsection}{\numberline {B.4.7}Slow Implementation}{183}{subsection.B.4.7}
+\contentsline {chapter}{\numberline {C}Disease Knowledge Transfer across Neurodegenerative Diseases}{185}{appendix.C}
+\contentsline {chapter}{\numberline {D}Novel Extensions to the EBM and DEM}{187}{appendix.D}
+\contentsline {section}{\numberline {D.1}EBM Fitting using Expectation-Maximisation}{187}{section.D.1}
+\contentsline {subsection}{\numberline {D.1.1}M-step}{187}{subsection.D.1.1}
+\contentsline {subsection}{\numberline {D.1.2}E-step}{190}{subsection.D.1.2}
+\contentsline {chapter}{\numberline {E}TADPOLE Challenge: Prediction of Longitudinal Evolution in AD}{191}{appendix.E}
+\contentsline {section}{\numberline {E.1}Expected Number of Subjects and Available Data for D4}{191}{section.E.1}
+\contentsline {chapter}{\numberline {F}Bibliography}{193}{appendix.F}

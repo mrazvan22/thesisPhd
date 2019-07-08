@@ -1,0 +1,66 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Prevalence of dementia around the world}}{27}{figure.caption.7}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagram showing the amyloid hypothesis}}{29}{figure.caption.8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Different genes and associated risk for AD}}{31}{figure.caption.9}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Different risk factors for AD related to lifestyle and the associated level of evidence}}{32}{figure.caption.10}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Intercalated pentagons used in the Mini-Mental State Examination (MMSE)}}{33}{figure.caption.11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Comparison between the MRI brain scans of healthy subjects and subjects with mild cognitive impairment}}{34}{figure.caption.12}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces FDG PET images of healthy and AD subjects}}{35}{figure.caption.13}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Diffusion tensor image diagram}}{36}{figure.caption.14}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagram showing the cerebro-spinal fluid (CSF).}}{37}{figure.caption.15}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Visual deficits and neuroimaging pathology in Posterior Cortical Atrophy}}{40}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hypothetical biomarker signatures in two diseases}}{46}{figure.caption.17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Biomarker cascade by Jack et al. \cite {jack2010hypothetical}}}{47}{figure.caption.18}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Event-based model diagram}}{49}{figure.caption.19}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces MCMC perturbation rules in the event-based model}}{51}{figure.caption.20}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Event-based model - MCMC sampling diagram}}{52}{figure.caption.21}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagram of the Differential Equation Model (DEM)}}{54}{figure.caption.22}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces ADNI biomarker trajectories estimated by Jedynak et al. \cite {jedynak2012computational}}}{55}{figure.caption.25}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ADNI Biomarker trajectories estimated by Donohue et al. \cite {donohue2014estimating}}}{58}{figure.caption.27}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Voxelwise disease progression model by Bilgel et al. \cite {bilgel2016multivariate}}}{61}{figure.caption.30}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagram of the cortical atrophy progression model by Koval et al. \cite {koval2017statistical}}}{64}{figure.caption.35}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagram of the network diffusion model by Raj et al. \cite {raj2012network}.}}{65}{figure.caption.36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagram of the Differential Equation Model}}{76}{figure.caption.40}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Atrophy progression in PCA and tAD patients according to the event-based model}}{79}{figure.caption.41}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces PCA and tAD positional variance diagrams estimated by the EBM}}{80}{figure.caption.42}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces PCA and tAD trajectories estimated by the DEM}}{81}{figure.caption.43}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces PCA and tAD trajectories aligned in the same space, with samples from the posterior distribution}}{81}{figure.caption.44}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Early atrophy progression within the three cognitively-defined PCA subgroups}}{82}{figure.caption.45}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagram of the proposed DIVE model.}}{101}{figure.caption.53}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The DIVE parameter estimation algorithm.}}{106}{figure.caption.54}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces DIVE Simulation Results}}{112}{figure.caption.56}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces DIVE Results on ADNI and DRC cohorts}}{115}{figure.caption.57}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces DIVE estimated clusters and trajectories over the 10 cross-validation folds}}{116}{figure.caption.58}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Scatter plot of DIVE-derived DPS scores vs cognitive tests}}{117}{figure.caption.59}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Diagram of the proposed framework for joint modelling of multiple diseases.}}{123}{figure.caption.61}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces The algorithm for estimating the DKT parameters}}{126}{figure.caption.62}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces DKT Simulation Results - Comparison between true and DKT-estimated biomarker trajectories and subject time-shifts.}}{129}{figure.caption.63}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Estimated biomarker trajectories for the "synthetic PCA" disease, plotted alongside true trajectories}}{130}{figure.caption.64}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces DKT results - biomarker trajectories in the occipital unit and dysfunctionality scores for tAD and PCA}}{131}{figure.caption.65}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Estimated multi-modal trajectories for the PCA cohort.}}{132}{figure.caption.66}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Diagram showing the TADPOLE Challenge design}}{139}{figure.caption.68}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Venn diagram of the TADPOLE datasets derived from ADNI data.}}{142}{figure.caption.70}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Labels of the different areas analysed in the EBM progression snapshots}}{157}{figure.caption.74}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces EBM bootstrap samples of the atrophy sequence for PCA and tAD}}{160}{figure.caption.75}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Hypothesis testing of ordering of events within PCA and tAD}}{161}{figure.caption.76}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Positional variance diagram estimated by the event-based model, for three PCA sugroups}}{162}{figure.caption.77}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces EBM bootstrap samples of the atrophy sequence, for three PCA subgroups}}{163}{figure.caption.78}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Hypothesis testing of the ordering of events within the three PCA subgroups.}}{164}{figure.caption.79}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Testing for statistically significant differences in positions of each biomarker in the EBM abnormality sequences, for both PCA and typical AD.}}{168}{figure.caption.87}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Testing for statistically significant differences in biomarker positions in the EBM sequences of PCA subgroups.}}{169}{figure.caption.88}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces DIVE: Error in DPS scores and trajectory estimation in simulations}}{172}{figure.caption.89}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Estimated biomarker trajectories for the "synthetic AD" disease, plotted alongside true trajectories.}}{186}{figure.caption.91}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

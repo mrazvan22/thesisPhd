@@ -1,0 +1,2524 @@
+\begin{thebibliography}{100}
+
+\bibitem{jack2010hypothetical}
+Clifford~R Jack, David~S Knopman, William~J Jagust, Leslie~M Shaw, Paul~S
+  Aisen, Michael~W Weiner, Ronald~C Petersen, and John~Q Trojanowski.
+\newblock Hypothetical model of dynamic biomarkers of the Alzheimer's
+  pathological cascade.
+\newblock {\em The Lancet Neurology}, 9(1):119--128, 2010.
+
+\bibitem{jedynak2012computational}
+Bruno~M Jedynak, Andrew Lang, Bo~Liu, Elyse Katz, Yanwei Zhang, Bradley~T
+  Wyman, David Raunig, C~Pierre Jedynak, Brian Caffo, Jerry~L Prince, et~al.
+\newblock A computational neurodegenerative disease progression score: method
+  and results with the Alzheimer's Disease Neuroimaging Initiative cohort.
+\newblock {\em Neuroimage}, 63(3):1478--1486, 2012.
+
+\bibitem{donohue2014estimating}
+Michael~C Donohue, H{\'e}l{\`e}ne Jacqmin-Gadda, M{\'e}lanie Le~Goff, Ronald~G
+  Thomas, Rema Raman, Anthony~C Gamst, Laurel~A Beckett, Clifford~R Jack,
+  Michael~W Weiner, Jean-Fran{\c{c}}ois Dartigues, et~al.
+\newblock Estimating long-term multivariate progression from short-term data.
+\newblock {\em Alzheimer's \& Dementia}, 10(5):S400--S410, 2014.
+
+\bibitem{bilgel2016multivariate}
+Murat Bilgel, Jerry~L Prince, Dean~F Wong, Susan~M Resnick, and Bruno~M
+  Jedynak.
+\newblock A multivariate nonlinear mixed effects model for longitudinal image
+  analysis: Application to amyloid imaging.
+\newblock {\em NeuroImage}, 134:658--670, 2016.
+
+\bibitem{koval2017statistical}
+Igor Koval, J-B Schiratti, Alexandre Routier, Michael Bacci, Olivier Colliot,
+  St{\'e}phanie Allassonni{\`e}re, Stanley Durrleman, and Alzheimer’s
+  Disease~Neuroimaging Initiative.
+\newblock Statistical learning of spatiotemporal patterns from longitudinal
+  manifold-valued networks.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 451--459. Springer, 2017.
+
+\bibitem{raj2012network}
+Ashish Raj, Amy Kuceyeski, and Michael Weiner.
+\newblock A network diffusion model of disease progression in dementia.
+\newblock {\em Neuron}, 73(6):1204--1215, 2012.
+
+\bibitem{Burns2009}
+Alistair Burns and Steve Iliffe.
+\newblock {Alzheimer's disease}.
+\newblock {\em BMJ}, 338:467--471 ST -- Alzheimer's disease, 2009.
+
+\bibitem{world2013dementia}
+World Health~Organization (WHO) et~al.
+\newblock Dementia fact sheet N. 362 2012.
+
+\bibitem{whitwell2010progression}
+Jennifer~L Whitwell.
+\newblock Progression of atrophy in {Alzheimer’s} disease and related
+  disorders.
+\newblock {\em Neurotoxicity research}, 18(3-4):339--346, 2010.
+
+\bibitem{marcus2014brain}
+Charles Marcus, Esther Mena, and Rathan~M Subramaniam.
+\newblock Brain {PET} in the diagnosis of {Alzheimer's} disease.
+\newblock {\em Clinical nuclear medicine}, 39(10):e413, 2014.
+
+\bibitem{mudher2002alzheimer}
+Amritpal Mudher and Simon Lovestone.
+\newblock Alzheimer's disease--do tauists and baptists finally shake hands?
+\newblock {\em Trends in neurosciences}, 25(1):22--26, 2002.
+
+\bibitem{mehta2017trials}
+Dev Mehta, Robert Jackson, Gaurav Paul, Jiong Shi, and Marwan Sabbagh.
+\newblock Why do trials for {Alzheimer's} disease drugs keep failing? A
+  discontinued drug perspective for 2010-2015.
+\newblock {\em Expert opinion on investigational drugs}, 26(6):735--739, 2017.
+
+\bibitem{galton2000atypical}
+Clare~J Galton, Karalyn Patterson, John~H Xuereb, and John~R Hodges.
+\newblock Atypical and typical presentations of Alzheimer's disease: a
+  clinical, neuropsychological, neuroimaging and pathological study of 13
+  cases.
+\newblock {\em Brain}, 123(3):484--498, 2000.
+
+\bibitem{murray2011neuropathologically}
+Melissa~E Murray, Neill~R Graff-Radford, Owen~A Ross, Ronald~C Petersen, Ranjan
+  Duara, and Dennis~W Dickson.
+\newblock Neuropathologically defined subtypes of {Alzheimer's} disease with
+  distinct clinical characteristics: a retrospective study.
+\newblock {\em The Lancet Neurology}, 10(9):785--796, 2011.
+
+\bibitem{qiang2017structural}
+Wei Qiang, Wai-Ming Yau, Jun-Xia Lu, John Collinge, and Robert Tycko.
+\newblock Structural variation in amyloid-$\beta$ fibrils from {Alzheimer's}
+  disease clinical subtypes.
+\newblock {\em Nature}, 541(7636):217, 2017.
+
+\bibitem{larner2006clinical}
+AJ~Larner and M~Doran.
+\newblock Clinical phenotypic heterogeneity of {Alzheimer's} disease associated
+  with mutations of the presenilin--1 gene.
+\newblock {\em Journal of neurology}, 253(2):139--158, 2006.
+
+\bibitem{benson1988posterior}
+D~Frank Benson, R~Jeffrey Davis, and Bruce~D Snyder.
+\newblock Posterior cortical atrophy.
+\newblock {\em Archives of neurology}, 45(7):789--793, 1988.
+
+\bibitem{crutch2012posterior}
+Sebastian~J Crutch, Manja Lehmann, Jonathan~M Schott, Gil~D Rabinovici,
+  Martin~N Rossor, and Nick~C Fox.
+\newblock Posterior cortical atrophy.
+\newblock {\em The Lancet Neurology}, 11(2):170--178, 2012.
+
+\bibitem{borruat2013posterior}
+Fran{\c{c}}ois-Xavier Borruat.
+\newblock Posterior cortical atrophy: review of the recent literature.
+\newblock {\em Current neurology and neuroscience reports}, 13(12):1--8, 2013.
+
+\bibitem{lehmann2011cortical}
+Manja Lehmann, Sebastian~J Crutch, Gerard~R Ridgway, Basil~H Ridha, Josephine
+  Barnes, Elizabeth~K Warrington, Martin~N Rossor, and Nick~C Fox.
+\newblock Cortical thickness and voxel-based morphometry in posterior cortical
+  atrophy and typical Alzheimer's disease.
+\newblock {\em Neurobiology of aging}, 32(8):1466--1476, 2011.
+
+\bibitem{whitwell2007imaging}
+Jennifer~L Whitwell, Clifford~R Jack, Kejal Kantarci, Stephen~D Weigand,
+  Bradley~F Boeve, David~S Knopman, Daniel~A Drubach, David~F Tang-Wai,
+  Ronald~C Petersen, and Keith~A Josephs.
+\newblock Imaging correlates of posterior cortical atrophy.
+\newblock {\em Neurobiology of aging}, 28(7):1051--1061, 2007.
+
+\bibitem{stern2012cognitive}
+Yaakov Stern.
+\newblock Cognitive reserve in ageing and {Alzheimer's} disease.
+\newblock {\em The Lancet Neurology}, 11(11):1006--1012, 2012.
+
+\bibitem{fonteijn2012event}
+Hubert~M Fonteijn, Marc Modat, Matthew~J Clarkson, Josephine Barnes, Manja
+  Lehmann, Nicola~Z Hobbs, Rachael~I Scahill, Sarah~J Tabrizi, Sebastien
+  Ourselin, Nick~C Fox, et~al.
+\newblock {An event-based model for disease progression and its application in
+  familial Alzheimer's disease and Huntington's disease}.
+\newblock {\em NeuroImage}, 60(3):1880--1889, 2012.
+
+\bibitem{young2014data}
+Alexandra~L Young, Neil~P Oxtoby, Pankaj Daga, David~M Cash, Nick~C Fox,
+  Sebastien Ourselin, Jonathan~M Schott, and Daniel~C Alexander.
+\newblock {A data-driven model of biomarker changes in sporadic Alzheimer's
+  disease}.
+\newblock {\em Brain}, 137(9):2564--2577, 2014.
+
+\bibitem{villemagne2013amyloid}
+Victor~L Villemagne, Samantha Burnham, Pierrick Bourgeat, Belinda Brown,
+  Kathryn~A Ellis, Olivier Salvado, Cassandra Szoeke, S~Lance Macaulay, Ralph
+  Martins, Paul Maruff, et~al.
+\newblock Amyloid $\beta$ deposition, neurodegeneration, and cognitive decline
+  in sporadic {Alzheimer's} disease: a prospective cohort study.
+\newblock {\em The Lancet Neurology}, 12(4):357--367, 2013.
+
+\bibitem{jedynak2012}
+Bruno~M. Jedynak, Andrew Lang, Bo~Liu, Elyse Katz, Yanwei Zhang, Bradley~T.
+  Wyman, David Raunig, C.~Pierre Jedynak, Brian Caffo, and Jerry~L. Prince.
+\newblock {A computational neurodegenerative disease progression score: Method
+  and results with the Alzheimer's disease neuroimaging initiative cohort}.
+\newblock {\em NeuroImage}, 63(3):1478--1486, 2012.
+
+\bibitem{schiratti2015mixed}
+J-B Schiratti, St{\'e}phanie Allassonniere, Alexandre Routier, Olivier Colliot,
+  Stanley Durrleman, and Alzheimers Disease~Neuroimaging Initiative.
+\newblock A mixed-effects model with time reparametrization for longitudinal
+  univariate manifold-valued data.
+\newblock In {\em International Conference on Information Processing in Medical
+  Imaging}, pages 564--575. Springer, 2015.
+
+\bibitem{iturria2016early}
+Yasser Iturria-Medina, Roberto~C Sotero, Paule~J Toussaint, Jos{\'e}~Mar{\'\i}a
+  Mateos-P{\'e}rez, Alan~C Evans, Michael~W Weiner, Paul Aisen, Ronald
+  Petersen, Clifford~R Jack, William Jagust, et~al.
+\newblock Early role of vascular dysregulation on late-onset {Alzheimer}’s
+  disease based on multifactorial data-driven analysis.
+\newblock {\em Nature communications}, 7:11934, 2016.
+
+\bibitem{young2018uncovering}
+Alexandra~L Young et~al.
+\newblock Uncovering the heterogeneity and temporal complexity of
+  neurodegenerative diseases with Subtype and Stage Inference.
+\newblock {\em Nature Communications, in press}, 2018.
+
+\bibitem{oxtoby2018}
+Neil~P Oxtoby, Alexandra~L Young, David~M Cash, Tammie~LS Benzinger, Anne~M
+  Fagan, John~C Morris, Randall~J Bateman, Nick~C Fox, Jonathan~M Schott, and
+  Daniel~C Alexander.
+\newblock Data-driven models of dominantly-inherited {Alzheimer's} disease
+  progression.
+\newblock {\em Brain}, 141(5):1529--1544, 2018.
+
+\bibitem{ross1996progressive}
+SJ~Ross, Naida Graham, Lindsay Stuart-Green, Miriam Prins, John Xuereb, Karalyn
+  Patterson, and John~R Hodges.
+\newblock Progressive biparietal atrophy: an atypical presentation of
+  Alzheimer's disease.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  61(4):388--395, 1996.
+
+\bibitem{goethals2001posterior}
+Maarten Goethals and Patrick Santens.
+\newblock Posterior cortical atrophy. Two case reports and a review of the
+  literature.
+\newblock {\em Clinical neurology and neurosurgery}, 103(2):115--119, 2001.
+
+\bibitem{giovagnoli2009neuropsychological}
+Anna~Rita Giovagnoli, Anna Aresi, Fabiola Reati, Alice Riva, Clara Gobbo, and
+  Alberto Bizzi.
+\newblock The neuropsychological and neuroradiological correlates of slowly
+  progressive visual agnosia.
+\newblock {\em Neurological sciences}, 30(2):123--131, 2009.
+
+\bibitem{chang2015substance}
+Zheng Chang, Paul Lichtenstein, Henrik Larsson, and Seena Fazel.
+\newblock Substance use disorders, psychiatric disorders, and mortality after
+  release from prison: a nationwide longitudinal cohort study.
+\newblock {\em The Lancet Psychiatry}, 2(5):422--430, 2015.
+
+\bibitem{kennedy2012visualizing}
+Jonathan Kennedy, Manja Lehmann, Magdalena~J Sokolska, Hilary Archer,
+  Elizabeth~K Warrington, Nick~C Fox, and Sebastian~J Crutch.
+\newblock Visualizing the emergence of posterior cortical atrophy.
+\newblock {\em Neurocase}, 18(3):248--257, 2012.
+
+\bibitem{crutch2017consensus}
+Sebastian~J Crutch, Jonathan~M Schott, Gil~D Rabinovici, Melissa Murray,
+  Julie~S Snowden, Wiesje~M van~der Flier, Bradford~C Dickerson, Rik
+  Vandenberghe, Samrah Ahmed, Thomas~H Bak, et~al.
+\newblock Consensus classification of posterior cortical atrophy.
+\newblock {\em Alzheimer's \& Dementia}, 13(8):870--884, 2017.
+
+\bibitem{lehmann2012global}
+Manja Lehmann, Josephine Barnes, Gerard~R Ridgway, Natalie~S Ryan, Elizabeth~K
+  Warrington, Sebastian~J Crutch, and Nick~C Fox.
+\newblock Global gray matter changes in posterior cortical atrophy: a serial
+  imaging study.
+\newblock {\em Alzheimer's \& Dementia}, 8(6):502--512, 2012.
+
+\bibitem{seeley2009neurodegenerative}
+William~W Seeley, Richard~K Crawford, Juan Zhou, Bruce~L Miller, and Michael~D
+  Greicius.
+\newblock Neurodegenerative diseases target large-scale human brain networks.
+\newblock {\em Neuron}, 62(1):42--52, 2009.
+
+\bibitem{bron2015standardized}
+Esther~E Bron, Marion Smits, Wiesje~M Van Der~Flier, Hugo Vrenken, Frederik
+  Barkhof, Philip Scheltens, Janne~M Papma, Rebecca~ME Steketee,
+  Carolina~M{\'e}ndez Orellana, Rozanna Meijboom, et~al.
+\newblock Standardized evaluation of algorithms for computer-aided diagnosis of
+  dementia based on structural {MRI}: the {CADDementia} challenge.
+\newblock {\em NeuroImage}, 111:562--579, 2015.
+
+\bibitem{sarica2018machine}
+Alessia Sarica, Cerasa Antonio, Quattrone Aldo, and Calhoun Vince.
+\newblock A machine learning neuroimaging challenge for automated diagnosis of
+  Mild Cognitive Impairment.
+\newblock {\em in press}, 2018.
+
+\bibitem{querfurth2010mechanisms}
+Henry~W Querfurth and Frank~M LaFerla.
+\newblock Mechanisms of disease.
+\newblock {\em New England Journal of Medicine}, 362(4):329--344, 2010.
+
+\bibitem{princeglobal}
+M~Prince, A~Wimo, M~Guerchet, et~al.
+\newblock The global impact of Dementia: an analysis of prevalence, incidence,
+  cost and trends. 2015. London, UK: {Alzheimer's} Disease International.
+
+\bibitem{forstl1999clinical}
+Hans F{\"o}rstl and Alexander Kurz.
+\newblock Clinical features of {Alzheimer's} disease.
+\newblock {\em European archives of psychiatry and clinical neuroscience},
+  249(6):288--290, 1999.
+
+\bibitem{chobor1990semantic}
+KL~Chobor and JW~Brown.
+\newblock Semantic deterioration in Alzheimer's: the patterns to expect.
+\newblock {\em Geriatrics (Basel, Switzerland)}, 45(10):68--70, 1990.
+
+\bibitem{locascio1995cognitive}
+Joseph~J Locascio, John~H Growdon, and Suzanne Corkin.
+\newblock Cognitive test performance in detecting, staging, and tracking
+  {Alzheimer's} disease.
+\newblock {\em Archives of neurology}, 52(11):1087--1099, 1995.
+
+\bibitem{moore1984drawing}
+Vanessa Moore and Maria~A Wyke.
+\newblock Drawing disability in patients with senile dementia.
+\newblock {\em Psychological Medicine}, 14(1):97--105, 1984.
+
+\bibitem{haupt1992psychopathologische}
+M~Haupt, A~Kurz, Barbara Romero, et~al.
+\newblock Psychopathologische St{\"o}rungen bei beginnender Alzheimerscher
+  Krankheit.
+\newblock {\em Fortschritte der Neurologie{\textperiodcentered} Psychiatrie},
+  60(01):3--7, 1992.
+
+\bibitem{burns1990psychiatric}
+Alastair Burns, Robin Jacoby, and Raymond Levy.
+\newblock Psychiatric phenomena in {Alzheimer's} disease. IV: Disorders of
+  behaviour.
+\newblock {\em The British Journal of Psychiatry}, 157(1):86--94, 1990.
+
+\bibitem{beatty1988retrograde}
+William~W Beatty, David~P Salmon, Nelson Butters, William~C Heindel, and Eric~L
+  Granholm.
+\newblock Retrograde amnesia in patients with {Alzheimer's} disease or
+  Huntington's disease.
+\newblock {\em Neurobiology of aging}, 9:181--186, 1988.
+
+\bibitem{romero1995pragmatische}
+Barbara Romero, F~Pulverm{\"u}ller, M~Haupt, and A~Kurz.
+\newblock Pragmatische Sprachst{\"o}rungen in fr{\"u}hen Stadien der Alzheimer
+  Krankheit: Analyse der Art und Auspr{\"a}gung.
+\newblock {\em Zeitschrift f{\"u}r Neuropsychologie}, 6(1):29--42, 1995.
+
+\bibitem{cummings1986pattern}
+Jeffrey~L Cummings, John~P Houlihan, and Mary~Ann Hill.
+\newblock The pattern of reading deterioration in dementia of the Alzheimer
+  type: Observations and implications.
+\newblock {\em Brain and language}, 29(2):315--323, 1986.
+
+\bibitem{neils1989descriptive}
+Jean Neils, Francois Boller, Bernice Gerdeman, and Monroe Cole.
+\newblock Descriptive writing abilities in {Alzheimer's} disease.
+\newblock {\em Journal of Clinical and Experimental neuropsychology},
+  11(5):692--698, 1989.
+
+\bibitem{reisberg1996behavioral}
+Barry Reisberg, Stefanie~R Auer, Isabel Monteiro, Istvan Boksay, and Steven~G
+  Sclan.
+\newblock Behavioral disturbances of dementia: an overview of phenomenology and
+  methodologic concerns.
+\newblock {\em International Psychogeriatrics}, 8(S2):169--182, 1996.
+
+\bibitem{perry1990visual}
+EK~Perry, J~Kerwin, RH~Perry, G~Blessed, and AF~Fairbairn.
+\newblock Visual hallucinations and the cholinergic system in dementia.
+\newblock {\em Journal of neurology, neurosurgery, and psychiatry}, 53(1):88,
+  1990.
+
+\bibitem{Ballard2011alzheimers}
+Clive Ballard, Serge Gauthier, Anne Corbett, Carol Brayne, Dag Aarsland, and
+  Emma Jones.
+\newblock {Alzheimer's disease}.
+\newblock {\em The Lancet}, 377(9770):1019--1031, 2011.
+
+\bibitem{hardy1991amyloid}
+John Hardy and David Allsop.
+\newblock Amyloid deposition as the central event in the aetiology of
+  Alzheimer's disease.
+\newblock {\em Trends in pharmacological sciences}, 12:383--388, 1991.
+
+\bibitem{ertekin2000linkage}
+Nilufer Ertekin-Taner, Neill Graff-Radford, Linda~H Younkin, Christopher
+  Eckman, Matthew Baker, Jennifer Adamson, James Ronald, John Blangero, Michael
+  Hutton, and Steven~G Younkin.
+\newblock Linkage of plasma A$\beta$42 to a quantitative locus on chromosome 10
+  in late-onset {Alzheimer's} disease pedigrees.
+\newblock {\em Science}, 290(5500):2303--2304, 2000.
+
+\bibitem{gotz2001formation}
+J~G{\"o}tz, F~Chen, Jo~Van~Dorpe, and RM~Nitsch.
+\newblock Formation of neurofibrillary tangles in P301L tau transgenic mice
+  induced by A$\beta$42 fibrils.
+\newblock {\em Science}, 293(5534):1491--1495, 2001.
+
+\bibitem{lewis2001enhanced}
+Jada Lewis, Dennis~W Dickson, Wen-Lang Lin, Louise Chisholm, Anthony Corral,
+  Graham Jones, Shu-Hui Yen, Naruhiko Sahara, Lisa Skipper, Debra Yager, et~al.
+\newblock Enhanced neurofibrillary degeneration in transgenic mice expressing
+  mutant tau and APP.
+\newblock {\em Science}, 293(5534):1487--1491, 2001.
+
+\bibitem{roberson2007reducing}
+Erik~D Roberson, Kimberly Scearce-Levie, Jorge~J Palop, Fengrong Yan, Irene~H
+  Cheng, Tiffany Wu, Hilary Gerstein, Gui-Qiu Yu, and Lennart Mucke.
+\newblock Reducing endogenous tau ameliorates amyloid {\ss}-induced deficits in
+  an {Alzheimer's} disease mouse model.
+\newblock {\em Science}, 316(5825):750--754, 2007.
+
+\bibitem{bloom2014amyloid}
+George~S Bloom.
+\newblock Amyloid-$\beta$ and tau: the trigger and bullet in Alzheimer disease
+  pathogenesis.
+\newblock {\em JAMA neurology}, 71(4):505--508, 2014.
+
+\bibitem{hsiao1995age}
+Karen~K Hsiao, David~R Borchelt, Kristine Olson, Rosa Johannsdottir, Cheryl
+  Kitt, Wael Yunis, Sherry Xu, Chris Eckman, Steven Younkin, Donald Price,
+  et~al.
+\newblock Age-related CNS disorder and early death in transgenic FVB/N mice
+  overexpressing Alzheimer amyloid precursor proteins.
+\newblock {\em Neuron}, 15(5):1203--1218, 1995.
+
+\bibitem{irizarry1997appsw}
+Michael~C Irizarry, Megan McNamara, Kerri Fedorchak, Karen Hsiao, and Bradley~T
+  Hyman.
+\newblock APPSw transgenic mice develop age-related A$\beta$ deposits and
+  neuropil abnormalities, but no neuronal loss in CA1.
+\newblock {\em Journal of Neuropathology \& Experimental Neurology},
+  56(9):965--973, 1997.
+
+\bibitem{nagy1995relative}
+ZS~Nagy, MM~Esiri, KA~Jobst, JH~Morris, EM-F King, B~McDonald, S~Litchfield,
+  A~Smith, L~Barnetson, and AD~Smith.
+\newblock Relative roles of plaques and tangles in the dementia of
+  {Alzheimer's} disease: correlations using three sets of neuropathological
+  criteria.
+\newblock {\em Dementia and Geriatric Cognitive Disorders}, 6(1):21--31, 1995.
+
+\bibitem{braak1998evolution}
+H~Braak and E~Braak.
+\newblock Evolution of neuronal changes in the course of {Alzheimer's} disease.
+\newblock In {\em Ageing and dementia}, pages 127--140. Springer, 1998.
+
+\bibitem{braak1994sequence}
+F~Braak, Heiko Braak, and E-M Mandelkow.
+\newblock A sequence of cytoskeleton changes related to the formation of
+  neurofibrillary tangles and neuropil threads.
+\newblock {\em Acta neuropathologica}, 87(6):554--567, 1994.
+
+\bibitem{heutink2000untangling}
+Peter Heutink.
+\newblock Untangling tau-related dementia.
+\newblock {\em Human molecular genetics}, 9(6):979--986, 2000.
+
+\bibitem{francis1999cholinergic}
+Paul~T Francis, Alan~M Palmer, Michael Snape, and Gordon~K Wilcock.
+\newblock The cholinergic hypothesis of {Alzheimer's} disease: a review of
+  progress.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  66(2):137--147, 1999.
+
+\bibitem{davies1976selective}
+Peter Davies and AJF Maloney.
+\newblock Selective loss of central cholinergic neurons in {Alzheimer's}
+  disease.
+\newblock {\em The Lancet}, 308(8000):1403, 1976.
+
+\bibitem{martorana2010beyond}
+Alessandro Martorana, Zaira Esposito, and Giacomo Koch.
+\newblock Beyond the cholinergic hypothesis: do current drugs work in
+  {Alzheimer's} disease?
+\newblock {\em CNS neuroscience \& therapeutics}, 16(4):235--245, 2010.
+
+\bibitem{de2004alzheimer}
+Jack~C de~la Torre.
+\newblock Is {Alzheimer's} disease a neurodegenerative or a vascular disorder?
+  Data, dogma, and dialectics.
+\newblock {\em The Lancet Neurology}, 3(3):184--190, 2004.
+
+\bibitem{kalaria2003vascular}
+Raj~N Kalaria.
+\newblock Vascular factors in {Alzheimer's} disease.
+\newblock {\em International Psychogeriatrics}, 15(S1):47--52, 2003.
+
+\bibitem{meyer2000risk}
+John~S Meyer, Gaiane Rauch, Ronald~A Rauch, and A~Haque.
+\newblock Risk factors for cerebral hypoperfusion, mild cognitive impairment,
+  and dementia.
+\newblock {\em Neurobiology of aging}, 21(2):161--169, 2000.
+
+\bibitem{breteler2000vascular}
+Monique Breteler.
+\newblock Vascular involvement in cognitive decline and dementia: epidemiologic
+  evidence from the Rotterdam Study and the Rotterdam Scan Study.
+\newblock {\em Annals of the New York Academy of Sciences}, 903(1):457--465,
+  2000.
+
+\bibitem{aronson1990women}
+MK~Aronson, WL~Ooi, H~Morgenstern, A~Hafner, D~Masur, H~Crystal, WH~Frishman,
+  D~Fisher, and R~Katzman.
+\newblock Women, myocardial infarction, and dementia in the very old.
+\newblock {\em Neurology}, 40(7):1102--1102, 1990.
+
+\bibitem{polidori2001heart}
+MC~Polidori, M~Marvardi, A~Cherubini, U~Senin, and P~Mecocci.
+\newblock Heart disease and vascular risk factors in the cognitively impaired
+  elderly: implications for {Alzheimer's} dementia.
+\newblock {\em Aging Clinical and Experimental Research}, 13(3):231--239, 2001.
+
+\bibitem{hofman1997atherosclerosis}
+Albert Hofman, Alewijn Ott, Monique~MB Breteler, Michiel~L Bots, Arjen~JC
+  Slooter, Frans van Harskamp, Cornelia~N van Duijn, Christine Van~Broeckhoven,
+  and Diederick~E Grobbee.
+\newblock Atherosclerosis, apolipoprotein E, and prevalence of dementia and
+  {Alzheimer's} disease in the Rotterdam Study.
+\newblock {\em The Lancet}, 349(9046):151--154, 1997.
+
+\bibitem{robinson2017recent}
+Morgan Robinson, Brenda~Y Lee, and Francis~T Hane.
+\newblock Recent progress in {Alzheimer's} disease research, part 2: genetics
+  and epidemiology.
+\newblock {\em Journal of Alzheimer's Disease}, 57(2):317--330, 2017.
+
+\bibitem{bergem1997role}
+AL~Mina Bergem, Knut Engedal, and Einar Kringlen.
+\newblock The role of heredity in late-onset Alzheimer disease and vascular
+  dementia: a twin study.
+\newblock {\em Archives of General Psychiatry}, 54(3):264--270, 1997.
+
+\bibitem{gatz1997heritability}
+Margaret Gatz, Nancy~L Pedersen, Stig Berg, Boo Johansson, Kurt Johansson,
+  James~A Mortimer, Samuel~F Posner, Matti Viitanen, Bengt Winblad, and Anders
+  Ahlbom.
+\newblock Heritability for {Alzheimer's} disease: the study of dementia in
+  Swedish twins.
+\newblock {\em The Journals of Gerontology Series A: Biological Sciences and
+  Medical Sciences}, 52(2):M117--M125, 1997.
+
+\bibitem{chouraki2014genetics}
+Vincent Chouraki and Sudha Seshadri.
+\newblock Genetics of {Alzheimer's} disease.
+\newblock In {\em Advances in genetics}, volume~87, pages 245--294. Elsevier,
+  2014.
+
+\bibitem{glenner1984alzheimer}
+George~G Glenner and Caine~W Wong.
+\newblock Alzheimer's disease and Down's syndrome: sharing of a unique
+  cerebrovascular amyloid fibril protein.
+\newblock {\em Biochemical and biophysical research communications},
+  122(3):1131--1135, 1984.
+
+\bibitem{st1987genetic}
+Peter~H St~George-Hyslop, Rudolph~E Tanzi, Ronald~J Polinsky, Jonathan~L
+  Haines, Linda Nee, Paul~C Watkins, Richard~H Myers, Robert~G Feldman, Daniel
+  Pollen, David Drachman, et~al.
+\newblock The genetic defect causing familial {Alzheimer's} disease maps on
+  chromosome 21.
+\newblock {\em Science}, 235(4791):885--890, 1987.
+
+\bibitem{goldgaber1987characterization}
+Dmitry Goldgaber, Michael~I Lerman, O~Westley McBride, Umberto Saffiotti, and
+  D~Carleton Gajdusek.
+\newblock Characterization and chromosomal localization of a cDNA encoding
+  brain amyloid of {Alzheimer's} disease.
+\newblock {\em Science}, 235(4791):877--880, 1987.
+
+\bibitem{chartier1991early}
+Marie-Christine Chartier-Harlin, Fiona Crawford, Henry Houlden, Andrew Warren,
+  David Hughes, Liana Fidani, Alison Goate, Martin Rossor, Penelope Roques,
+  John Hardy, et~al.
+\newblock Early-onset {Alzheimer's} disease caused by mutations at codon 717 of
+  the $\beta$-amyloid precursor protein gene.
+\newblock {\em Nature}, 353(6347):844, 1991.
+
+\bibitem{sherrington1995cloning}
+R~Sherrington, EI~Rogaev, Y~al Liang, EA~Rogaeva, G~Levesque, M~Ikeda, H~Chi,
+  C~Lin, G~Li, K~Holman, et~al.
+\newblock Cloning of a gene bearing missense mutations in early-onset familial
+  {Alzheimer's} disease.
+\newblock {\em Nature}, 375(6534):754, 1995.
+
+\bibitem{levy1995candidate}
+Ephrat Levy-Lahad, Wilma Wasco, Parvoneh Poorkaj, Donna~M Romano, Junko Oshima,
+  Warren~H Pettingell, Chang~En Yu, Paul~D Jondro, Stephen~D Schmidt, Kai Wang,
+  et~al.
+\newblock Candidate gene for the chromosome 1 familial {Alzheimer's} disease
+  locus.
+\newblock {\em Science}, 269(5226):973--977, 1995.
+
+\bibitem{strittmatter1993apolipoprotein}
+Warren~J Strittmatter, Ann~M Saunders, Donald Schmechel, Margaret
+  Pericak-Vance, Jan Enghild, Guy~S Salvesen, and Allen~D Roses.
+\newblock Apolipoprotein E: high-avidity binding to beta-amyloid and increased
+  frequency of type 4 allele in late-onset familial Alzheimer disease.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  90(5):1977--1981, 1993.
+
+\bibitem{saunders1993association}
+Ann~M Saunders, Warren~J Strittmatter, D~Schmechel, PH~St George-Hyslop,
+  MA~Pericak-Vance, SH~Joo, BL~Rosi, JF~Gusella, DR~Crapper-MacLachlan,
+  MJ~Alberts, et~al.
+\newblock Association of apolipoprotein E allele ϵ4 with late-onset familial
+  and sporadic {Alzheimer's} disease.
+\newblock {\em Neurology}, 43(8):1467--1467, 1993.
+
+\bibitem{corder1993gene}
+Elizabeth~H Corder, Ann~M Saunders, Waren~J Strittmatter, Donald~E Schmechel,
+  P~Craig Gaskell, Gwet Small, Allen~D Roses, JL~Haines, and Margaret~A
+  Pericak-Vance.
+\newblock Gene dose of apolipoprotein E type 4 allele and the risk of
+  {Alzheimer's} disease in late onset families.
+\newblock {\em Science}, 261(5123):921--923, 1993.
+
+\bibitem{harold2009genome}
+Denise Harold, Richard Abraham, Paul Hollingworth, Rebecca Sims, Amy Gerrish,
+  Marian~L Hamshere, Jaspreet~Singh Pahwa, Valentina Moskvina, Kimberley
+  Dowzell, Amy Williams, et~al.
+\newblock Genome-wide association study identifies variants at CLU and PICALM
+  associated with {Alzheimer's} disease.
+\newblock {\em Nature genetics}, 41(10):1088, 2009.
+
+\bibitem{lambert2009genome}
+J~Lambert, S~Heath, G~Even, D~Campion, K~Sleegers, M~Hiltunen, O~Cambarros,
+  D~Zelenika, M~Bullido, B~Tavernier, et~al.
+\newblock Genome-wide association study indentifies variants at CLU and CR1
+  associated with {Alzheimer's} disease.
+\newblock {\em Nature Genetics}, 41(10):1094--1099, 2009.
+
+\bibitem{seshadri2010genome}
+Sudha Seshadri, Annette~L Fitzpatrick, M~Arfan Ikram, Anita~L DeStefano,
+  Vilmundur Gudnason, Merce Boada, Joshua~C Bis, Albert~V Smith, Minerva~M
+  Carrasquillo, Jean~Charles Lambert, et~al.
+\newblock Genome-wide analysis of genetic loci associated with Alzheimer
+  disease.
+\newblock {\em JAMA}, 303(18):1832--1840, 2010.
+
+\bibitem{hollingworth2011common}
+Paul Hollingworth, Denise Harold, Rebecca Sims, Amy Gerrish, Jean-Charles
+  Lambert, Minerva~M Carrasquillo, Richard Abraham, Marian~L Hamshere,
+  Jaspreet~Singh Pahwa, Valentina Moskvina, et~al.
+\newblock Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are
+  associated with {Alzheimer's} disease.
+\newblock {\em Nature genetics}, 43(5):429, 2011.
+
+\bibitem{naj2011common}
+Adam~C Naj, Gyungah Jun, Gary~W Beecham, Li-San Wang, Badri~Narayan Vardarajan,
+  Jacqueline Buros, Paul~J Gallins, Joseph~D Buxbaum, Gail~P Jarvik, Paul~K
+  Crane, et~al.
+\newblock Common variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated
+  with late-onset {Alzheimer's} disease.
+\newblock {\em Nature genetics}, 43(5):436, 2011.
+
+\bibitem{thambisetty2013alzheimerA}
+Madhav Thambisetty, Yang An, and Toshiko Tanaka.
+\newblock Alzheimer's disease risk genes and the age-at-onset phenotype.
+\newblock {\em Neurobiology of aging}, 34(11):2696--e1, 2013.
+
+\bibitem{thambisetty2013alzheimerB}
+Madhav Thambisetty, Lori~L Beason-Held, Yang An, Michael Kraut, Michael Nalls,
+  Dena~G Hernandez, Andrew~B Singleton, Alan~B Zonderman, Luigi Ferrucci, Simon
+  Lovestone, et~al.
+\newblock Alzheimer risk variant CLU and brain function during aging.
+\newblock {\em Biological psychiatry}, 73(5):399--405, 2013.
+
+\bibitem{biffi2012genetic}
+A~Biffi, JM~Shulman, JM~Jagiella, L~Cortellini, AM~Ayres, K~Schwab, DL~Brown,
+  SL~Silliman, M~Selim, BB~Worrall, et~al.
+\newblock Genetic variation at CR1 increases risk of cerebral amyloid
+  angiopathy.
+\newblock {\em Neurology}, pages WNL--0b013e3182452b40, 2012.
+
+\bibitem{chibnik2011cr1}
+Lori~B Chibnik, Joshua~M Shulman, Sue~E Leurgans, Julie~A Schneider, Robert~S
+  Wilson, Dong Tran, Cristin Aubin, Aron~S Buchman, Christopher~B Heward,
+  Amanda~J Myers, et~al.
+\newblock CR1 is associated with amyloid plaque burden and age-related
+  cognitive decline.
+\newblock {\em Annals of neurology}, 69(3):560--569, 2011.
+
+\bibitem{elias2013genetic}
+Lyzel~S Elias-Sonnenschein, Seppo Helisalmi, Teemu Natunen, Anette Hall, Teemu
+  Paajanen, Sanna-Kaisa Herukka, Marjo Laitinen, Anne~M Remes, Anne~M Koivisto,
+  Kari~M Mattila, et~al.
+\newblock Genetic loci associated with {Alzheimer's} disease and cerebrospinal
+  fluid biomarkers in a Finnish case-control cohort.
+\newblock {\em PloS one}, 8(4):e59676, 2013.
+
+\bibitem{kauwe2011fine}
+John~SK Kauwe, Carlos Cruchaga, Celeste~M Karch, Brooke Sadler, Mo~Lee, Kevin
+  Mayo, Wayne Latu, Manti Su'a, Anne~M Fagan, David~M Holtzman, et~al.
+\newblock Fine mapping of genetic variants in BIN1, CLU, CR1 and PICALM for
+  association with cerebrospinal fluid biomarkers for {Alzheimer's} disease.
+\newblock {\em PloS one}, 6(2):e15918, 2011.
+
+\bibitem{bralten2011cr1}
+Janita Bralten, Barbara Franke, Alejandro Arias-V{\'a}squez, Angelien Heister,
+  Han~G Brunner, Guill{\'e}n Fern{\'a}ndez, and Mark Rijpkema.
+\newblock CR1 genotype is associated with entorhinal cortex volume in young
+  healthy adults.
+\newblock {\em Neurobiology of aging}, 32(11):2106--e7, 2011.
+
+\bibitem{furney2011genome}
+SJ~Furney, A~Simmons, G~Breen, I~Pedroso, K~Lunnon, P~Proitsi, A~Hodges,
+  J~Powell, LO~Wahlund, I~Kloszewska, et~al.
+\newblock Genome-wide association with {MRI} atrophy measures as a quantitative
+  trait locus for {Alzheimer's} disease.
+\newblock {\em Molecular psychiatry}, 16(11):1130, 2011.
+
+\bibitem{barral2012genotype}
+S~Barral, T~Bird, A~Goate, MR~Farlow, R~Diaz-Arrastia, DA~Bennett,
+  N~Graff-Radford, BF~Boeve, RA~Sweet, Y~Stern, et~al.
+\newblock Genotype patterns at PICALM, CR1, BIN1, CLU, and APOE genes are
+  associated with episodic memory.
+\newblock {\em Neurology}, 78(19):1464--1471, 2012.
+
+\bibitem{mengel2013clu}
+Jonas Mengel-From, Mikael Thinggaard, Rune Lindahl-Jacobsen, Matt McGue, Kaare
+  Christensen, and Lene Christiansen.
+\newblock CLU genetic variants and cognitive decline among elderly and oldest
+  old.
+\newblock {\em PloS one}, 8(11):e79105, 2013.
+
+\bibitem{baumgart2015summary}
+Matthew Baumgart, Heather~M Snyder, Maria~C Carrillo, Sam Fazio, Hye Kim, and
+  Harry Johns.
+\newblock Summary of the evidence on modifiable risk factors for cognitive
+  decline and dementia: a population-based perspective.
+\newblock {\em Alzheimer's \& Dementia}, 11(6):718--726, 2015.
+
+\bibitem{todd2013survival}
+Stephen Todd, Stephen Barr, Mark Roberts, and A~Peter Passmore.
+\newblock Survival in dementia and predictors of mortality: a review.
+\newblock {\em International journal of geriatric psychiatry},
+  28(11):1109--1124, 2013.
+
+\bibitem{cataldo2010cigarette}
+Janine~K Cataldo, Judith~J Prochaska, and Stanton~A Glantz.
+\newblock Cigarette smoking is a risk factor for {Alzheimer's} Disease: an
+  analysis controlling for tobacco industry affiliation.
+\newblock {\em Journal of Alzheimer's disease}, 19(2):465--480, 2010.
+
+\bibitem{moulton2012air}
+Paula~Valencia Moulton and Wei Yang.
+\newblock Air pollution, oxidative stress, and {Alzheimer's} disease.
+\newblock {\em Journal of environmental and public health}, 2012, 2012.
+
+\bibitem{ahlskog2011physical}
+J~Eric Ahlskog, Yonas~E Geda, Neill~R Graff-Radford, and Ronald~C Petersen.
+\newblock Physical exercise as a preventive or disease-modifying treatment of
+  dementia and brain aging.
+\newblock In {\em Mayo Clinic Proceedings}, volume~86, pages 876--884.
+  Elsevier, 2011.
+
+\bibitem{mckhann1984clinical}
+Guy McKhann, David Drachman, Marshall Folstein, Robert Katzman, Donald Price,
+  and Emanuel~M Stadlan.
+\newblock Clinical diagnosis of Alzheimer's disease Report of the
+  {NINCDS-ADRDA} Work Group* under the auspices of {Department of Health and
+  Human Services Task Force on Alzheimer's Disease}.
+\newblock {\em Neurology}, 34(7):939--939, 1984.
+
+\bibitem{herholz2012use}
+Karl Herholz.
+\newblock Use of {FDG} {PET} as an imaging biomarker in clinical trials of
+  {Alzheimer's} disease.
+\newblock {\em Biomarkers in medicine}, 6(4):431--439, 2012.
+
+\bibitem{klunk2004imaging}
+William~E Klunk, Henry Engler, Agneta Nordberg, Yanming Wang, Gunnar Blomqvist,
+  Daniel~P Holt, Mats Bergstr{\"o}m, Irina Savitcheva, Guo-Feng Huang, Sergio
+  Estrada, et~al.
+\newblock Imaging brain amyloid in {Alzheimer's} disease with {Pittsburgh}
+  {Compound-B}.
+\newblock {\em Annals of neurology}, 55(3):306--319, 2004.
+
+\bibitem{blennow2003csf}
+Kaj Blennow and Harald Hampel.
+\newblock CSF markers for incipient {Alzheimer's} disease.
+\newblock {\em The Lancet Neurology}, 2(10):605--613, 2003.
+
+\bibitem{dubois2007research}
+Bruno Dubois, Howard~H Feldman, Claudia Jacova, Steven~T DeKosky, Pascale
+  Barberger-Gateau, Jeffrey Cummings, Andr{\'e} Delacourte, Douglas Galasko,
+  Serge Gauthier, Gregory Jicha, et~al.
+\newblock Research criteria for the diagnosis of {Alzheimer's} disease:
+  revising the NINCDS--ADRDA criteria.
+\newblock {\em The Lancet Neurology}, 6(8):734--746, 2007.
+
+\bibitem{dubois2010revising}
+Bruno Dubois, Howard~H Feldman, Claudia Jacova, Jeffrey~L Cummings, Steven~T
+  DeKosky, Pascale Barberger-Gateau, Andr{\'e} Delacourte, Giovanni Frisoni,
+  Nick~C Fox, Douglas Galasko, et~al.
+\newblock Revising the definition of {Alzheimer's} disease: a new lexicon.
+\newblock {\em The Lancet Neurology}, 9(11):1118--1127, 2010.
+
+\bibitem{ekman2018t}
+Urban Ekman, Daniel Ferreira, and Eric Westman.
+\newblock The A/T/N biomarker scheme and patterns of brain atrophy assessed in
+  mild cognitive impairment.
+\newblock {\em Scientific reports}, 8(1):8431, 2018.
+
+\bibitem{reuter2012within}
+Martin Reuter, Nicholas~J Schmansky, H~Diana Rosas, and Bruce Fischl.
+\newblock Within-subject template estimation for unbiased longitudinal image
+  analysis.
+\newblock {\em Neuroimage}, 61(4):1402--1418, 2012.
+
+\bibitem{jack2013update}
+Clifford~R Jack~Jr, David~S Knopman, William~J Jagust, Ronald~C Petersen,
+  Michael~W Weiner, Paul~S Aisen, Leslie~M Shaw, Prashanthi Vemuri, Heather~J
+  Wiste, Stephen~D Weigand, et~al.
+\newblock Update on hypothetical model of {Alzheimer's} disease biomarkers.
+\newblock {\em Lancet neurology}, 12(2):207, 2013.
+
+\bibitem{cohen2014early}
+Ann~D Cohen and William~E Klunk.
+\newblock Early detection of {Alzheimer's} disease using PiB and {FDG} PET.
+\newblock {\em Neurobiology of disease}, 72:117--122, 2014.
+
+\bibitem{lowe2016autoradiographic}
+Val~J Lowe, Geoffry Curran, Ping Fang, Amanda~M Liesinger, Keith~A Josephs,
+  Joseph~E Parisi, Kejal Kantarci, Bradley~F Boeve, Mukesh~K Pandey, Tyler
+  Bruinsma, et~al.
+\newblock An autoradiographic evaluation of AV-1451 Tau {PET} in dementia.
+\newblock {\em Acta neuropathologica communications}, 4(1):58, 2016.
+
+\bibitem{marquie2015validating}
+Marta Marqui{\'e}, Marc~D Normandin, Charles~R Vanderburg, Isabel~M Costantino,
+  Elizabeth~A Bien, Lisa~G Rycyna, William~E Klunk, Chester~A Mathis, Milos~D
+  Ikonomovic, Manik~L Debnath, et~al.
+\newblock Validating novel tau positron emission tomography tracer
+  [F-18]-AV-1451 (T807) on postmortem brain tissue.
+\newblock {\em Annals of neurology}, 78(5):787--800, 2015.
+
+\bibitem{sachdev2013alzheimer}
+Perminder~S Sachdev, Lin Zhuang, Nady Braidy, and Wei Wen.
+\newblock Is {Alzheimer's} a disease of the white matter?
+\newblock {\em Current opinion in psychiatry}, 26(3):244--251, 2013.
+
+\bibitem{bozzali2002white}
+M~Bozzali, A~Falini, M~Franceschi, M~Cercignani, M~Zuffi, G~Scotti, G~Comi, and
+  M~Filippi.
+\newblock White matter damage in {Alzheimer's} disease assessed in vivo using
+  diffusion tensor magnetic resonance imaging.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  72(6):742--746, 2002.
+
+\bibitem{zhang2009white}
+Yu~Zhang, Norbert Schuff, An-Tao Du, Howard~J Rosen, Joel~H Kramer, Maria~Luisa
+  Gorno-Tempini, Bruce~L Miller, and Michael~W Weiner.
+\newblock White matter damage in frontotemporal dementia and {Alzheimer's}
+  disease measured by diffusion MRI.
+\newblock {\em Brain}, 132(9):2579--2592, 2009.
+
+\bibitem{zhou2012predicting}
+Juan Zhou, Efstathios~D Gennatas, Joel~H Kramer, Bruce~L Miller, and William~W
+  Seeley.
+\newblock Predicting regional neurodegeneration from the healthy brain
+  functional connectome.
+\newblock {\em Neuron}, 73(6):1216--1227, 2012.
+
+\bibitem{zhang2012noddi}
+Hui Zhang, Torben Schneider, Claudia~A Wheeler-Kingshott, and Daniel~C
+  Alexander.
+\newblock NODDI: practical in vivo neurite orientation dispersion and density
+  imaging of the human brain.
+\newblock {\em Neuroimage}, 61(4):1000--1016, 2012.
+
+\bibitem{waldemar2007recommendations}
+G~Waldemar, B~Dubois, M~Emre, J~Georges, IG~McKeith, M~Rossor, P~Scheltens,
+  P~Tariska, and B~Winblad.
+\newblock Recommendations for the diagnosis and management of {Alzheimer's}
+  disease and other disorders associated with dementia: EFNS guideline.
+\newblock {\em European Journal of Neurology}, 14(1):e1--e26, 2007.
+
+\bibitem{ridha2006tracking}
+Basil~H Ridha, Josephine Barnes, Jonathan~W Bartlett, Alison Godbolt, Tracey
+  Pepple, Martin~N Rossor, and Nick~C Fox.
+\newblock Tracking atrophy progression in familial Alzheimer's disease: a
+  serial {MRI} study.
+\newblock {\em The Lancet Neurology}, 5(10):828--834, 2006.
+
+\bibitem{fox1999correlation}
+NC~Fox, RI~Scahill, WR~Crum, and MN~Rossor.
+\newblock Correlation between rates of brain atrophy and cognitive decline in
+  AD.
+\newblock {\em Neurology}, 52(8):1687--1687, 1999.
+
+\bibitem{scahill2002mapping}
+Rachael~I Scahill, Jonathan~M Schott, John~M Stevens, Martin~N Rossor, and
+  Nick~C Fox.
+\newblock Mapping the evolution of regional atrophy in Alzheimer's disease:
+  unbiased analysis of fluid-registered serial {MRI}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  99(7):4703--4707, 2002.
+
+\bibitem{braak1991neuropathological}
+H~Braak and E~Braak.
+\newblock Neuropathological stageing of {Alzheimer}-related changes.
+\newblock {\em Acta neuropathologica}, 82(4):239--259, 1991.
+
+\bibitem{schott2003assessing}
+Jonathan~M Schott, Nick~C Fox, Chris Frost, Rachael~I Scahill, John~C Janssen,
+  Dennis Chan, Rhian Jenkins, and Martin~N Rossor.
+\newblock Assessing the onset of structural change in familial Alzheimer's
+  disease.
+\newblock {\em Annals of neurology}, 53(2):181--188, 2003.
+
+\bibitem{jack2013tracking}
+Clifford~R Jack, David~S Knopman, William~J Jagust, Ronald~C Petersen,
+  Michael~W Weiner, Paul~S Aisen, Leslie~M Shaw, Prashanthi Vemuri, Heather~J
+  Wiste, Stephen~D Weigand, et~al.
+\newblock Tracking pathophysiological processes in Alzheimer's disease: an
+  updated hypothetical model of dynamic biomarkers.
+\newblock {\em The Lancet Neurology}, 12(2):207--216, 2013.
+
+\bibitem{jack1997medial}
+Clifford~R Jack, Ronald~C Petersen, Yue~Cheng Xu, Stephen~C Waring, Peter~C
+  O'Brien, Eric~G Tangalos, Glenn~E Smith, Robert~J Ivnik, and Emre Kokmen.
+\newblock Medial temporal atrophy on {MRI} in normal aging and very mild
+  Alzheimer's disease.
+\newblock {\em Neurology}, 49(3):786--794, 1997.
+
+\bibitem{lehericy1994amygdalohippocampal}
+Stephane Lehericy, Michel Baulac, Jacques Chiras, Laurent Pierot, Nadine
+  Martin, Bernard Pillon, Bernard Deweer, Bruno Dubois, and Claude Marsault.
+\newblock Amygdalohippocampal MR volume measurements in the early stages of
+  Alzheimer disease.
+\newblock {\em American Journal of Neuroradiology}, 15(5):929--937, 1994.
+
+\bibitem{juottonen1999comparative}
+Kirsi Juottonen, Mikko~P Laakso, Kaarina Partanen, and Hilkka Soininen.
+\newblock Comparative MR analysis of the entorhinal cortex and hippocampus in
+  diagnosing Alzheimer disease.
+\newblock {\em American Journal of Neuroradiology}, 20(1):139--144, 1999.
+
+\bibitem{bobinski1999histological}
+M~Bobinski, MJ~De~Leon, J~Wegiel, S~Desanti, A~Convit, LA~Saint~Louis,
+  H~Rusinek, and HM~Wisniewski.
+\newblock The histological validation of post mortem magnetic resonance
+  imaging-determined hippocampal volume in Alzheimer's disease.
+\newblock {\em Neuroscience}, 95(3):721--725, 1999.
+
+\bibitem{clark2011use}
+Christopher~M Clark, Julie~A Schneider, Barry~J Bedell, Thomas~G Beach,
+  Warren~B Bilker, Mark~A Mintun, Michael~J Pontecorvo, Franz Hefti, Alan~P
+  Carpenter, Matthew~L Flitter, et~al.
+\newblock Use of florbetapir-{PET} for imaging $\beta$-amyloid pathology.
+\newblock {\em JAMA}, 305(3):275--283, 2011.
+
+\bibitem{clark2012cerebral}
+Christopher~M Clark, Michael~J Pontecorvo, Thomas~G Beach, Barry~J Bedell,
+  R~Edward Coleman, P~Murali Doraiswamy, Adam~S Fleisher, Eric~M Reiman,
+  Marwan~N Sabbagh, Carl~H Sadowsky, et~al.
+\newblock Cerebral {PET} with florbetapir compared with neuropathology at
+  autopsy for detection of neuritic amyloid-$\beta$ plaques: a prospective
+  cohort study.
+\newblock {\em The Lancet Neurology}, 11(8):669--678, 2012.
+
+\bibitem{andrade2010visual}
+Katia Andrade, Dalila Samri, Marie Sarazin, Leonardo~C de~Souza, Laurent Cohen,
+  Michel~T de~Schotten, Bruno Dubois, and Paolo Bartolomeo.
+\newblock Visual neglect in posterior cortical atrophy.
+\newblock {\em BMC neurology}, 10(1):68, 2010.
+
+\bibitem{andrade2012visuospatial}
+Katia Andrade, Aur{\'e}lie Kas, Romain Valabr{\`e}gue, Dalila Samri, Marie
+  Sarazin, Marie-Odile Habert, Bruno Dubois, and Paolo Bartolomeo.
+\newblock Visuospatial deficits in posterior cortical atrophy: structural and
+  functional correlates.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry}, 2012.
+
+\bibitem{andrade2013visuospatial}
+Katia Andrade, Aur{\'e}lie Kas, Dalila Samri, Marie Sarazin, Bruno Dubois,
+  Marie-Odile Habert, and Paolo Bartolomeo.
+\newblock Visuospatial deficits and hemispheric perfusion asymmetries in
+  posterior cortical atrophy.
+\newblock {\em Cortex}, 49(4):940--947, 2013.
+
+\bibitem{lehmann2011basic}
+Manja Lehmann, Josephine Barnes, Gerard~R Ridgway, John Wattam-Bell,
+  Elizabeth~K Warrington, Nick~C Fox, and Sebastian~J Crutch.
+\newblock Basic visual function and cortical thickness patterns in posterior
+  cortical atrophy.
+\newblock {\em Cerebral cortex}, 21(9):2122--2132, 2011.
+
+\bibitem{depaz2012long}
+Rapha{\"e}l Depaz, St{\'e}phane Haik, Katell Peoc’h, Danielle Seilhean, David
+  Grabli, Savine Vicart, Marie Sarazin, Bertrand DeToffol, Catherine Remy,
+  Catherine Fallet-Bianco, et~al.
+\newblock Long-standing prion dementia manifesting as posterior cortical
+  atrophy.
+\newblock {\em Alzheimer Disease \& Associated Disorders}, 26(3):289--292,
+  2012.
+
+\bibitem{mendez2002posterior}
+Mario~F Mendez, Mehdi Ghajarania, and Kent~M Perryman.
+\newblock Posterior cortical atrophy: clinical characteristics and differences
+  compared to {Alzheimer's} disease.
+\newblock {\em Dementia and geriatric cognitive disorders}, 14(1):33--40, 2002.
+
+\bibitem{tang2004clinical}
+David~F Tang-Wai, NR~Graff-Radford, BF~Boeve, DW~Dickson, JE~Parisi, R~Crook,
+  RJ~Caselli, DS~Knopman, and RC~Petersen.
+\newblock Clinical, genetic, and neuropathologic characteristics of posterior
+  cortical atrophy.
+\newblock {\em Neurology}, 63(7):1168--1174, 2004.
+
+\bibitem{rosenbloom2011distinct}
+MH~Rosenbloom, A~Alkalay, N~Agarwal, SL~Baker, JP~O'Neil, M~Janabi, IV~Yen,
+  M~Growdon, J~Jang, C~Madison, et~al.
+\newblock Distinct clinical and metabolic deficits in PCA and {AD} are not
+  related to amyloid distribution.
+\newblock {\em Neurology}, 76(21):1789--1796, 2011.
+
+\bibitem{migliaccio2009clinical}
+Raffaella Migliaccio, Federica Agosta, Katya Rascovsky, Anna Karydas, Stephen
+  Bonasera, Gil~D Rabinovici, BL~Miller, and ML~Gorno-Tempini.
+\newblock Clinical syndromes associated with posterior atrophy early age at
+  onset {AD} spectrum.
+\newblock {\em Neurology}, 73(19):1571--1578, 2009.
+
+\bibitem{schott2006apolipoprotein}
+Jonathan~M Schott, Basil~H Ridha, Sebastian~J Crutch, Daniel~G Healy, James~B
+  Uphill, Elizabeth~K Warrington, Martin~N Rossor, and Nick~C Fox.
+\newblock Apolipoprotein e genotype modifies the phenotype of Alzheimer
+  disease.
+\newblock {\em Archives of neurology}, 63(1):155--156, 2006.
+
+\bibitem{snowden2007cognitive}
+Julie~S Snowden, Cheryl~L Stopford, Camille~L Julien, Jennifer~C Thompson,
+  Yvonne Davidson, Linda Gibbons, Antonia Pritchard, Corinne~L Lendon, Anna~M
+  Richardson, Anoop Varma, et~al.
+\newblock Cognitive phenotypes in {Alzheimer's} disease and genetic risk.
+\newblock {\em Cortex}, 43(7):835--845, 2007.
+
+\bibitem{goldstein2011posterior}
+Martin~A Goldstein, Iliyan Ivanov, and Michael~E Silverman.
+\newblock Posterior cortical atrophy: an exemplar for renovating diagnostic
+  formulation in neuropsychiatry.
+\newblock {\em Comprehensive psychiatry}, 52(3):326--333, 2011.
+
+\bibitem{videaud2012impact}
+H{\'e}l{\`e}ne Videaud, Fr{\'e}d{\'e}ric Torny, Leslie Cartz-Piver,
+  N~Deschamps-Vergara, and Philippe Couratier.
+\newblock Impact of drug-free care in posterior cortical atrophy: Preliminary
+  experience with a psycho-educative program.
+\newblock {\em Revue neurologique}, 168(11):861--867, 2012.
+
+\bibitem{weill2012physical}
+A~Weill-Chounlamountry, F~Poncet, S~Crop, N~Hesly, A~Mouton, D~Samri,
+  M~Sarazin, and P~Pradat-Diehl.
+\newblock Physical medicine and rehabilitation multidisciplinary approach in a
+  case of posterior cortical atrophy.
+\newblock {\em Annals of physical and rehabilitation medicine}, 55(6):430--439,
+  2012.
+
+\bibitem{hof1997atypical}
+Patrick~R Hof, Brent~A Vogt, Constantin Bouras, and John~H Morrison.
+\newblock Atypical form of Alzheimer's disease with prominent posterior
+  cortical atrophy: a review of lesion distribution and circuit disconnection
+  in cortical visual pathways.
+\newblock {\em Vision research}, 37(24):3609--3625, 1997.
+
+\bibitem{duning2009pattern}
+T~Duning, T~Warnecke, S~Mohammadi, H~Lohmann, H~Schiffbauer, H~Kugel, S~Knecht,
+  EB~Ringelstein, and M~Deppe.
+\newblock Pattern and progression of white-matter changes in a case of
+  posterior cortical atrophy using diffusion tensor imaging.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  80(4):432--436, 2009.
+
+\bibitem{yoshida2004white}
+Tomokatsu Yoshida, Kensuke Shiga, Kenji Yoshikawa, Kei Yamada, and Masanori
+  Nakagawa.
+\newblock White matter loss in the splenium of the corpus callosum in a case of
+  posterior cortical atrophy: a diffusion tensor imaging study.
+\newblock {\em European neurology}, 52(2):77--81, 2004.
+
+\bibitem{migliaccio2012brain}
+Raffaella Migliaccio, Federica Agosta, Monica~N Toba, Dalila Samri, Fabian
+  Corlier, Leonardo~C De~Souza, Marie Chupin, Michael Sharman, Maria~L
+  Gorno-Tempini, Bruno Dubois, et~al.
+\newblock Brain networks in posterior cortical atrophy: a single case
+  tractography study and literature review.
+\newblock {\em Cortex}, 48(10):1298--1309, 2012.
+
+\bibitem{kas2011neural}
+Aurelie Kas, Leonardo~Cruz De~Souza, Dalila Samri, Paolo Bartolomeo, Lucette
+  Lacomblez, Michel Kalafat, Raffaella Migliaccio, Michel Thiebaut~de Schotten,
+  Laurent Cohen, Bruno Dubois, et~al.
+\newblock Neural correlates of cognitive impairment in posterior cortical
+  atrophy.
+\newblock {\em Brain}, 134(5):1464--1478, 2011.
+
+\bibitem{gardini2011visuo}
+Simona Gardini, Letizia Concari, Salvatrice Pagliara, Caterina Ghetti, Annalena
+  Venneri, and Paolo Caffarra.
+\newblock Visuo-spatial imagery impairment in posterior cortical atrophy: a
+  cognitive and SPECT study.
+\newblock {\em Behavioural neurology}, 24(2):123--132, 2011.
+
+\bibitem{aharon1999posterior}
+Judith Aharon-Peretz, Ora Israel, Dorit Goldsher, and Aharon Peretz.
+\newblock Posterior cortical atrophy variants of {Alzheimer's} disease.
+\newblock {\em Dementia and geriatric cognitive disorders}, 10(6):483--487,
+  1999.
+
+\bibitem{pietrini1996preferential}
+Pietro Pietrini, Maura~L Furey, Neill Graff-Radford, Ulderico Freo, et~al.
+\newblock Preferential metabolic involvement of visual cortical areas in a
+  subtype of {Alzheimer's} disease: clinical implications.
+\newblock {\em The American journal of psychiatry}, 153(10):1261, 1996.
+
+\bibitem{ng2007evaluating}
+Steven~Y Ng, Victor~L Villemagne, Colin~L Masters, and Christopher~C Rowe.
+\newblock Evaluating Atypical Dementia Syndromes Using Positron Emission
+  Tomography With Carbon 11--Labeled Pittsburgh Compound B.
+\newblock {\em Archives of neurology}, 64(8):1140--1144, 2007.
+
+\bibitem{kambe2010posterior}
+Taiki Kambe, Yumiko Motoi, Kenji Ishii, and Nobutaka Hattori.
+\newblock Posterior cortical atrophy with 11--C Pittsburgh compound B
+  accumulation in the primary visual cortex.
+\newblock {\em Journal of neurology}, 257(3):469--471, 2010.
+
+\bibitem{tenovuo2008posterior}
+Olli Tenovuo, Nina Kemppainen, Sargo Aalto, Kjell N{\aa}gren, and Juha~O Rinne.
+\newblock Posterior cortical atrophy: A rare form of dementia with in vivo
+  evidence of amyloid-$\beta$ accumulation.
+\newblock {\em Journal of Alzheimer's Disease}, 15(3):351--355, 2008.
+
+\bibitem{formaglio2011vivo}
+Ma{\"\i}t{\'e} Formaglio, Nicolas Costes, J{\'e}r{\'e}mie Seguin, Yannick
+  Tholance, Didier Le~Bars, Isabelle Roullet-Solignac, Bernadette Mercier,
+  Pierre Krolak-Salmon, and Alain Vighetto.
+\newblock In vivo demonstration of amyloid burden in posterior cortical
+  atrophy: a case series with {PET} and {CSF} findings.
+\newblock {\em Journal of neurology}, 258(10):1841--1851, 2011.
+
+\bibitem{de2011similar}
+Leonardo~Cruz De~Souza, Fabian Corlier, Marie-Odile Habert, Olga Uspenskaya,
+  Renaud Maroy, Foudil Lamari, Marie Chupin, St{\'e}phane Leh{\'e}ricy, Olivier
+  Colliot, Val{\'e}rie Hahn-Barma, et~al.
+\newblock Similar amyloid-$\beta$ burden in posterior cortical atrophy and
+  {Alzheimer's} disease.
+\newblock {\em Brain}, 134(7):2036--2043, 2011.
+
+\bibitem{levine1993visual}
+David~N Levine, John~M Lee, and CM~Fisher.
+\newblock The visual variant of {Alzheimer's} disease A clinicopathologic case
+  study.
+\newblock {\em Neurology}, 43(2):305--305, 1993.
+
+\bibitem{jack200811c}
+Clifford~R Jack~Jr, Val~J Lowe, Matthew~L Senjem, Stephen~D Weigand, Bradley~J
+  Kemp, Maria~M Shiung, David~S Knopman, Bradley~F Boeve, William~E Klunk,
+  Chester~A Mathis, et~al.
+\newblock 11C PiB and structural {MRI} provide complementary information in
+  imaging of {Alzheimer's} disease and amnestic mild cognitive impairment.
+\newblock {\em Brain}, 131(3):665--680, 2008.
+
+\bibitem{hyman2011amyloid}
+Bradley~T Hyman.
+\newblock Amyloid-dependent and amyloid-independent stages of Alzheimer
+  disease.
+\newblock {\em Archives of neurology}, 68(8):1062--1064, 2011.
+
+\bibitem{jack2008atrophy}
+CR~Jack, Stephen~D Weigand, Maria~M Shiung, Scott~A Przybelski, Peter~C
+  O’Brien, Jeffrey~L Gunter, David~S Knopman, Bradley~F Boeve, Glenn~E Smith,
+  and Ronald~C Petersen.
+\newblock Atrophy rates accelerate in amnestic mild cognitive impairment.
+\newblock {\em Neurology}, 70(19 Part 2):1740--1752, 2008.
+
+\bibitem{dickerson2009cortical}
+Bradford~C Dickerson, Akram Bakkour, David~H Salat, Eric Feczko, Jenni Pacheco,
+  Douglas~N Greve, Fran Grodstein, Christopher~I Wright, Deborah Blacker,
+  H~Diana Rosas, et~al.
+\newblock {The cortical signature of Alzheimer's disease: regionally specific
+  cortical thinning relates to symptom severity in very mild to mild {AD}
+  dementia and is detectable in asymptomatic amyloid-positive individuals}.
+\newblock {\em Cerebral cortex}, 19(3):497--510, 2009.
+
+\bibitem{thompson2001cortical}
+Paul~M Thompson, Michael~S Mega, Roger~P Woods, Chris~I Zoumalan, Chris~J
+  Lindshield, Rebecca~E Blanton, Jacob Moussai, Colin~J Holmes, Jeffrey~L
+  Cummings, and Arthur~W Toga.
+\newblock Cortical change in Alzheimer's disease detected with a
+  disease-specific population-based brain atlas.
+\newblock {\em Cerebral Cortex}, 11(1):1--16, 2001.
+
+\bibitem{thompson2003dynamics}
+Paul~M Thompson, Kiralee~M Hayashi, Greig De~Zubicaray, Andrew~L Janke,
+  Stephen~E Rose, James Semple, David Herman, Michael~S Hong, Stephanie~S
+  Dittmer, David~M Doddrell, et~al.
+\newblock Dynamics of gray matter loss in Alzheimer's disease.
+\newblock {\em The Journal of Neuroscience}, 23(3):994--1005, 2003.
+
+\bibitem{sabuncu2011dynamics}
+Mert~R Sabuncu, Rahul~S Desikan, Jorge Sepulcre, Boon Thye~T Yeo, Hesheng Liu,
+  Nicholas~J Schmansky, Martin Reuter, Michael~W Weiner, Randy~L Buckner,
+  Reisa~A Sperling, et~al.
+\newblock The dynamics of cortical and hippocampal atrophy in Alzheimer
+  disease.
+\newblock {\em Archives of neurology}, 68(8):1040--1048, 2011.
+
+\bibitem{jack2012shapes}
+Clifford~R Jack, Prashanthi Vemuri, Heather~J Wiste, Stephen~D Weigand,
+  Timothy~G Lesnick, Val Lowe, Kejal Kantarci, Matt~A Bernstein, Matthew~L
+  Senjem, Jeffrey~L Gunter, et~al.
+\newblock Shapes of the trajectories of 5 major biomarkers of Alzheimer
+  disease.
+\newblock {\em Archives of neurology}, 69(7):856--867, 2012.
+
+\bibitem{doody2010predicting}
+Rachelle~S Doody, Valory Pavlik, Paul Massman, Susan Rountree, Eveleen Darby,
+  and Wenyaw Chan.
+\newblock Predicting progression of {Alzheimer's} disease.
+\newblock {\em Alzheimer's research \& therapy}, 2(1):2, 2010.
+
+\bibitem{driscoll2009longitudinal}
+I~Driscoll, C~Davatzikos, Y~An, X~Wu, D~Shen, M~Kraut, and SM~Resnick.
+\newblock Longitudinal pattern of regional brain volume change differentiates
+  normal aging from {MCI}.
+\newblock {\em Neurology}, 72(22):1906--1913, 2009.
+
+\bibitem{bateman2012clinical}
+Randall~J Bateman, Chengjie Xiong, Tammie~LS Benzinger, Anne~M Fagan, Alison
+  Goate, Nick~C Fox, Daniel~S Marcus, Nigel~J Cairns, Xianyun Xie, Tyler~M
+  Blazey, et~al.
+\newblock Clinical and biomarker changes in dominantly inherited Alzheimer's
+  disease.
+\newblock {\em New England Journal of Medicine}, 367(9):795--804, 2012.
+
+\bibitem{benzinger2013regional}
+Tammie~L Benzinger, Tyler Blazey, Clifford~R Jack, Robert~A Koeppe, Yi~Su,
+  Chengjie Xiong, Marcus~E Raichle, Abraham~Z Snyder, Beau~M Ances, Randall~J
+  Bateman, et~al.
+\newblock Regional variability of imaging biomarkers in autosomal dominant
+  {Alzheimer's} disease.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(47):E4502--E4509, 2013.
+
+\bibitem{dickerson2011alzheimer}
+BC~Dickerson, TR~Stoub, RC~Shah, RA~Sperling, RJ~Killiany, MS~Albert, BT~Hyman,
+  Deborah Blacker, et~al.
+\newblock Alzheimer-signature {MRI} biomarker predicts {AD} dementia in
+  cognitively normal adults.
+\newblock {\em Neurology}, 76(16):1395--1402, 2011.
+
+\bibitem{bouwman2007csf}
+FH~Bouwman, SNM Schoonenboom, WM~van Der~Flier, EJ~Van~Elk, A~Kok, F~Barkhof,
+  MA~Blankenstein, and Ph~Scheltens.
+\newblock CSF biomarkers and medial temporal lobe atrophy predict dementia in
+  mild cognitive impairment.
+\newblock {\em Neurobiology of aging}, 28(7):1070--1074, 2007.
+
+\bibitem{csernansky2005preclinical}
+JG~Csernansky, L~Wang, J~Swank, JP~Miller, M~Gado, D~McKeel, MI~Miller, and
+  JC~Morris.
+\newblock Preclinical detection of {Alzheimer's} disease: hippocampal shape and
+  volume predict dementia onset in the elderly.
+\newblock {\em Neuroimage}, 25(3):783--792, 2005.
+
+\bibitem{hansson2006association}
+Oskar Hansson, Henrik Zetterberg, Peder Buchhave, Elisabet Londos, Kaj Blennow,
+  and Lennart Minthon.
+\newblock Association between {CSF} biomarkers and incipient {Alzheimer's}
+  disease in patients with mild cognitive impairment: a follow-up study.
+\newblock {\em The Lancet Neurology}, 5(3):228--234, 2006.
+
+\bibitem{kawas2003visual}
+CH~Kawas, MM~Corrada, R~Brookmeyer, A~Morrison, SM~Resnick, AB~Zonderman, and
+  D~Arenberg.
+\newblock Visual memory predicts {Alzheimer's} disease more than a decade
+  before diagnosis.
+\newblock {\em Neurology}, 60(7):1089--1093, 2003.
+
+\bibitem{stoub2005mri}
+TR~Stoub, M~Bulgakova, S~Leurgans, DA~Bennett, D~Fleischman, DA~Turner, et~al.
+\newblock MRI predictors of risk of incident Alzheimer disease: a longitudinal
+  study.
+\newblock {\em Neurology}, 64(9):1520--1524, 2005.
+
+\bibitem{vemuri2009mri}
+P~Vemuri, HJ~Wiste, SD~Weigand, LM~Shaw, JQ~Trojanowski, MW~Weiner, DS~Knopman,
+  RC~Petersen, CR~Jack, et~al.
+\newblock MRI and {CSF} biomarkers in normal, {MCI}, and {AD} subjects:
+  diagnostic discrimination and cognitive correlations.
+\newblock {\em Neurology}, 73(4):287--293, 2009.
+
+\bibitem{morris2001mild}
+John~C Morris, Martha Storandt, J~Phillip Miller, Daniel~W McKeel, Joseph~L
+  Price, Eugene~H Rubin, and Leonard Berg.
+\newblock Mild cognitive impairment represents early-stage Alzheimer disease.
+\newblock {\em Archives of neurology}, 58(3):397--405, 2001.
+
+\bibitem{modrego2004depression}
+Pedro~J Modrego and Jaime Ferr{\'a}ndez.
+\newblock Depression in patients with mild cognitive impairment increases the
+  risk of developing dementia of Alzheimer type: a prospective cohort study.
+\newblock {\em Archives of neurology}, 61(8):1290--1293, 2004.
+
+\bibitem{carr2000value}
+David~B Carr, Steven Gray, Jack Baty, and John~C Morris.
+\newblock The value of informant versus individual’s complaints of memory
+  impairment in early dementia.
+\newblock {\em Neurology}, 55(11):1724--1727, 2000.
+
+\bibitem{khachaturian2004apolipoprotein}
+Ara~S Khachaturian, Christopher~D Corcoran, Lawrence~S Mayer, Peter~P Zandi,
+  and John~CS Breitner.
+\newblock Apolipoprotein E ϵ4 count affects age at onset of Alzheimer disease,
+  but not lifetime susceptibility: the Cache County Study.
+\newblock {\em Archives of general psychiatry}, 61(5):518--524, 2004.
+
+\bibitem{ashford2001modeling}
+J~Wesson Ashford and Frederick~A Schmitt.
+\newblock Modeling the time-course of Alzheimer dementia.
+\newblock {\em Current psychiatry reports}, 3(1):20--28, 2001.
+
+\bibitem{yang2011quantifying}
+Eric Yang, Michael Farnum, Victor Lobanov, Tim Schultz, Nandini Raghavan,
+  Mahesh~N Samtani, Gerald Novak, Vaibhav Narayan, and Allitia DiBernardo.
+\newblock Quantifying the pathophysiological timeline of Alzheimer's disease.
+\newblock {\em Journal of Alzheimer's Disease}, 26(4):745--753, 2011.
+
+\bibitem{caroli2010dynamics}
+A~Caroli, GB~Frisoni, and Alzheimer's Disease~Neuroimaging Initiative.
+\newblock The dynamics of Alzheimer's disease biomarkers in the Alzheimer's
+  Disease Neuroimaging Initiative cohort.
+\newblock {\em Neurobiology of aging}, 31(8):1263--1274, 2010.
+
+\bibitem{bishop2007pattern}
+C~Bishop.
+\newblock Pattern Recognition and Machine Learning (Information Science and
+  Statistics), 1st edn. 2006. corr. 2nd printing edn, 2007.
+
+\bibitem{datar2012mixed}
+Manasi Datar, Prasanna Muralidharan, Abhishek Kumar, Sylvain Gouttard, Joseph
+  Piven, Guido Gerig, Ross Whitaker, and P~Thomas Fletcher.
+\newblock Mixed-effects shape models for estimating longitudinal changes in
+  anatomy.
+\newblock In {\em International Workshop on Spatio-temporal Image Analysis for
+  Longitudinal and Time-Series Image Data}, pages 76--87. Springer, 2012.
+
+\bibitem{schiratti2015learning}
+Jean-Baptiste Schiratti, St{\'e}phanie Allassonniere, Olivier Colliot, and
+  Stanley Durrleman.
+\newblock Learning spatiotemporal trajectories from manifold-valued
+  longitudinal data.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  2404--2412, 2015.
+
+\bibitem{koval2018spatiotemporal}
+Igor Koval, Jean-Baptiste Schiratti, Alexandre Routier, Michael Bacci, Olivier
+  Colliot, Stephanie Allassonniere, and Stanley Durrleman.
+\newblock Spatiotemporal Propagation of the Cortical Atrophy: Population and
+  Individual Patterns.
+\newblock {\em Frontiers in Neurology}, 9, 2018.
+
+\bibitem{raj2015network}
+Ashish Raj, Eve LoCastro, Amy Kuceyeski, Duygu Tosun, Norman Relkin, Michael
+  Weiner, and {Alzheimer's} Disease~Neuroimaging Initiative.
+\newblock Network diffusion model of progression predicts longitudinal patterns
+  of atrophy and metabolism in {Alzheimer's} disease.
+
+\bibitem{villain2010sequential}
+Nicolas Villain, Marine Fouquet, Jean-Claude Baron, Florence M{\'e}zenge,
+  Brigitte Landeau, Vincent de~La~Sayette, Fausto Viader, Francis Eustache,
+  B{\'e}atrice Desgranges, and Ga{\"e}l Ch{\'e}telat.
+\newblock Sequential relationships between grey matter and white matter atrophy
+  and brain metabolic abnormalities in early Alzheimer's disease.
+\newblock {\em Brain}, 133(11):3301--3314, 2010.
+
+\bibitem{englund1988white}
+E~Englund, A~Brun, and C~Alling.
+\newblock White matter changes in dementia of Alzheimer's type.
+\newblock {\em Brain}, 111(6):1425--1439, 1988.
+
+\bibitem{kuczynski2010white}
+Beth Kuczynski, Elizabeth Targan, Cindee Madison, Michael Weiner, Yu~Zhang,
+  Bruce Reed, Helena~C Chui, and William Jagust.
+\newblock White matter integrity and cortical metabolic associations in aging
+  and dementia.
+\newblock {\em Alzheimer's \& dementia}, 6(1):54--62, 2010.
+
+\bibitem{behrens2007probabilistic}
+TEJ Behrens, H~Johansen Berg, Saad Jbabdi, MFS Rushworth, and MW~Woolrich.
+\newblock Probabilistic diffusion tractography with multiple fibre
+  orientations: What can we gain?
+\newblock {\em Neuroimage}, 34(1):144--155, 2007.
+
+\bibitem{kondor2002diffusion}
+Risi~Imre Kondor and John Lafferty.
+\newblock Diffusion kernels on graphs and other discrete input spaces.
+\newblock In {\em ICML}, volume~2, pages 315--322, 2002.
+
+\bibitem{zhou2010divergent}
+Juan Zhou, Michael~D Greicius, Efstathios~D Gennatas, Matthew~E Growdon, Jung~Y
+  Jang, Gil~D Rabinovici, Joel~H Kramer, Michael Weiner, Bruce~L Miller, and
+  William~W Seeley.
+\newblock Divergent network connectivity changes in behavioural variant
+  frontotemporal dementia and {Alzheimer's} disease.
+\newblock {\em Brain}, 133(5):1352--1367, 2010.
+
+\bibitem{vapnik2006estimation}
+Vladimir Vapnik.
+\newblock {\em Estimation of dependences based on empirical data}.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem{kloppel2008automatic}
+Stefan Kl{\"o}ppel, Cynthia~M Stonnington, Carlton Chu, Bogdan Draganski,
+  Rachael~I Scahill, Jonathan~D Rohrer, Nick~C Fox, Clifford~R Jack, John
+  Ashburner, and Richard~SJ Frackowiak.
+\newblock Automatic classification of MR scans in Alzheimer's disease.
+\newblock {\em Brain}, 131(3):681--689, 2008.
+
+\bibitem{lao2004morphological}
+Zhiqiang Lao, Dinggang Shen, Zhong Xue, Bilge Karacali, Susan~M Resnick, and
+  Christos Davatzikos.
+\newblock Morphological classification of brains via high-dimensional shape
+  transformations and machine learning methods.
+\newblock {\em Neuroimage}, 21(1):46--57, 2004.
+
+\bibitem{fan2005classification}
+Yong Fan, Dinggang Shen, and Christos Davatzikos.
+\newblock Classification of structural images via high-dimensional image
+  warping, robust feature extraction, and SVM.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 1--8. Springer, 2005.
+
+\bibitem{mourao2005classifying}
+Janaina Mour{\~a}o-Miranda, Arun~LW Bokde, Christine Born, Harald Hampel, and
+  Martin Stetter.
+\newblock Classifying brain states and determining the discriminating
+  activation patterns: support vector machine on functional {MRI} data.
+\newblock {\em NeuroImage}, 28(4):980--995, 2005.
+
+\bibitem{kawasaki2007multivariate}
+Yasuhiro Kawasaki, Michio Suzuki, Ferath Kherif, Tsutomu Takahashi, Shi-Yu
+  Zhou, Kazue Nakamura, Mie Matsui, Tomiki Sumiyoshi, Hikaru Seto, and
+  Masayoshi Kurachi.
+\newblock Multivariate voxel-based morphometry successfully differentiates
+  schizophrenia patients from healthy controls.
+\newblock {\em Neuroimage}, 34(1):235--242, 2007.
+
+\bibitem{ho1995random}
+Tin~Kam Ho.
+\newblock Random decision forests.
+\newblock In {\em Document Analysis and Recognition, 1995., Proceedings of the
+  Third International Conference on}, volume~1, pages 278--282. IEEE, 1995.
+
+\bibitem{breiman2001random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{gray2013random}
+Katherine~R Gray, Paul Aljabar, Rolf~A Heckemann, Alexander Hammers, Daniel
+  Rueckert, and Alzheimer's Disease~Neuroimaging Initiative.
+\newblock Random forest-based similarity measures for multi-modal
+  classification of Alzheimer's disease.
+\newblock {\em NeuroImage}, 65:167--175, 2013.
+
+\bibitem{alexander2014image}
+Daniel~C Alexander, Darko Zikic, Jiaying Zhang, Hui Zhang, and Antonio
+  Criminisi.
+\newblock Image quality transfer via random forest regression: applications in
+  diffusion {MRI}.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 225--232. Springer, 2014.
+
+\bibitem{lempitsky2009random}
+Victor Lempitsky, Michael Verhoek, J~Alison Noble, and Andrew Blake.
+\newblock Random forest classification for automatic delineation of myocardium
+  in real-time 3D echocardiography.
+\newblock In {\em International Conference on Functional Imaging and Modeling
+  of the Heart}, pages 447--456. Springer, 2009.
+
+\bibitem{hochreiter1997long}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{karlekar2018detecting}
+Sweta Karlekar, Tong Niu, and Mohit Bansal.
+\newblock Detecting Linguistic Characteristics of {Alzheimer's} Dementia by
+  Interpreting Neural Models.
+\newblock {\em arXiv preprint arXiv:1804.06440}, 2018.
+
+\bibitem{razavian2016multi}
+Narges Razavian, Jake Marcus, and David Sontag.
+\newblock Multi-task prediction of disease onsets from longitudinal laboratory
+  tests.
+\newblock In {\em Machine Learning for Healthcare Conference}, pages 73--100,
+  2016.
+
+\bibitem{lipton2015learning}
+Zachary~C Lipton, David~C Kale, Charles Elkan, and Randall Wetzel.
+\newblock Learning to diagnose with LSTM recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:1511.03677}, 2015.
+
+\bibitem{aczon2017dynamic}
+Melissa Aczon, David Ledbetter, L~Ho, Alec Gunny, Alysia Flynn, Jon Williams,
+  and Randall Wetzel.
+\newblock Dynamic mortality risk predictions in pediatric critical care using
+  recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:1701.06675}, 2017.
+
+\bibitem{harutyunyan2017multitask}
+Hrayr Harutyunyan, Hrant Khachatrian, David~C Kale, and Aram Galstyan.
+\newblock Multitask learning and benchmarking with clinical time series data.
+\newblock {\em arXiv preprint arXiv:1703.07771}, 2017.
+
+\bibitem{georgiadis2018computational}
+Konstantinos Georgiadis, Selina Wray, S{\'e}bastien Ourselin, Jason~D Warren,
+  and Marc Modat.
+\newblock Computational modelling of pathogenic protein spread in
+  neurodegenerative diseases.
+\newblock {\em PloS one}, 13(2):e0192518, 2018.
+
+\bibitem{mckhann2011diagnosis}
+Guy~M McKhann, David~S Knopman, Howard Chertkow, Bradley~T Hyman, Clifford~R
+  Jack~Jr, Claudia~H Kawas, William~E Klunk, Walter~J Koroshetz, Jennifer~J
+  Manly, Richard Mayeux, et~al.
+\newblock The diagnosis of dementia due to {Alzheimer's} disease:
+  Recommendations from the National Institute on Aging-Alzheimer’s
+  Association workgroups on diagnostic guidelines for {Alzheimer's} disease.
+\newblock {\em Alzheimer's \& dementia}, 7(3):263--269, 2011.
+
+\bibitem{cardoso2015geodesic}
+M~Jorge Cardoso, Marc Modat, Robin Wolz, Andrew Melbourne, David Cash, Daniel
+  Rueckert, and Sebastien Ourselin.
+\newblock Geodesic Information Flows: Spatially-Variant Graphs and Their
+  Application to Segmentation and Fusion.
+\newblock 2015.
+
+\bibitem{neuromorphometrics}
+{Neuromorphometrics Brain Atlas}.
+\newblock \url{http://www.neuromorphometrics.com/}.
+
+\bibitem{marinescu2019BrainPainter}
+Razvan~V. Marinescu.
+\newblock BrainPainter - Brain Colouring Software (open-source).
+\newblock \url{https://github.com/mrazvan22/brain-coloring}, 2019.
+
+\bibitem{schneider2007mixed}
+Julie~A Schneider, Zoe Arvanitakis, Woojeong Bang, and David~A Bennett.
+\newblock Mixed brain pathologies account for most dementia cases in
+  community-dwelling older persons.
+\newblock {\em Neurology}, 69(24):2197--2204, 2007.
+
+\bibitem{schneider2009neuropathology}
+Julie~A Schneider, Zoe Arvanitakis, Sue~E Leurgans, and David~A Bennett.
+\newblock The neuropathology of probable Alzheimer disease and mild cognitive
+  impairment.
+\newblock {\em Annals of Neurology: Official Journal of the American
+  Neurological Association and the Child Neurology Society}, 66(2):200--208,
+  2009.
+
+\bibitem{young2015multiple}
+Alexandra~L Young, Neil~P Oxtoby, Jonathan Huang, Razvan~V Marinescu, Pankaj
+  Daga, David~M Cash, Nick~C Fox, Sebastien Ourselin, Jonathan~M Schott,
+  Daniel~C Alexander, et~al.
+\newblock Multiple Orderings of Events in Disease Progression.
+\newblock In {\em Information Processing in Medical Imaging}, pages 711--722.
+  Springer, 2015.
+
+\bibitem{schott2016genetic}
+Jonathan~M Schott, Sebastian~J Crutch, Minerva~M Carrasquillo, James Uphill,
+  Tim~J Shakespeare, Natalie~S Ryan, Keir~X Yong, Manja Lehmann, Nilufer
+  Ertekin-Taner, Neill~R Graff-Radford, et~al.
+\newblock Genetic risk factors for the posterior cortical atrophy variant of
+  {Alzheimer's} disease.
+\newblock {\em Alzheimer's \& dementia}, 12(8):862--871, 2016.
+
+\bibitem{freeborough1997boundary}
+Peter Freeborough, Nick~C Fox, et~al.
+\newblock The boundary shift integral: an accurate and robust measure of
+  cerebral volume changes from registered repeat {MRI}.
+\newblock {\em Medical Imaging, IEEE Transactions on}, 16(5):623--629, 1997.
+
+\bibitem{leung2010robust}
+Kelvin~K Leung, Matthew~J Clarkson, Jonathan~W Bartlett, Shona Clegg,
+  Clifford~R Jack, Michael~W Weiner, Nick~C Fox, S{\'e}bastien Ourselin, and
+  Alzheimer's Disease~Neuroimaging Initiative.
+\newblock Robust atrophy rate measurement in Alzheimer's disease using
+  multi-site serial {MRI}: tissue-specific intensity normalization and
+  parameter selection.
+\newblock {\em Neuroimage}, 50(2):516--523, 2010.
+
+\bibitem{leung2010automated}
+Kelvin~K Leung, Josephine Barnes, Gerard~R Ridgway, Jonathan~W Bartlett,
+  Matthew~J Clarkson, Kate Macdonald, Norbert Schuff, Nick~C Fox, Sebastien
+  Ourselin, and Alzheimer's Disease~Neuroimaging Initiative.
+\newblock Automated cross-sectional and longitudinal hippocampal volume
+  measurement in mild cognitive impairment and Alzheimer's disease.
+\newblock {\em Neuroimage}, 51(4):1345--1359, 2010.
+
+\bibitem{platt1998sequential}
+John Platt.
+\newblock Sequential minimal optimization: A fast algorithm for training
+  support vector machines.
+\newblock 1998.
+
+\bibitem{marinescu2018tadpole}
+Razvan~V Marinescu, Neil~P Oxtoby, Alexandra~L Young, Esther~E Bron, Arthur~W
+  Toga, Michael~W Weiner, Frederik Barkhof, Nick~C Fox, Stefan Klein, Daniel~C
+  Alexander, et~al.
+\newblock TADPOLE Challenge: Prediction of Longitudinal Evolution in
+  {Alzheimer's} Disease.
+\newblock {\em arXiv preprint arXiv:1805.03909}, 2018.
+
+\bibitem{sukkar2012disease}
+Rafid Sukkar, Elyse Katz, Yanwei Zhang, David Raunig, and Bradley~T Wyman.
+\newblock Disease progression modeling using hidden Markov models.
+\newblock In {\em 2012 Annual International Conference of the IEEE Engineering
+  in Medicine and Biology Society}, pages 2845--2848. IEEE, 2012.
+
+\bibitem{derado2010modeling}
+Gordana Derado, F~DuBois Bowman, and Clinton~D Kilts.
+\newblock Modeling the spatial and temporal dependence in fMRI data.
+\newblock {\em Biometrics}, 66(3):949--957, 2010.
+
+\bibitem{hyun2016stgp}
+Jung~Won Hyun, Yimei Li, Chao Huang, Martin Styner, Weili Lin, Hongtu Zhu, and
+  {Alzheimer's} Disease~Neuroimaging Initiative.
+\newblock STGP: Spatio-temporal Gaussian process models for longitudinal
+  neuroimaging data.
+\newblock {\em NeuroImage}, 134:550--562, 2016.
+
+\bibitem{lorenzi2015efficient}
+Marco Lorenzi, Gabriel Ziegler, Daniel~C Alexander, and Sebastien Ourselin.
+\newblock Efficient Gaussian process-based modelling and prediction of image
+  time series.
+\newblock In {\em International Conference on Information Processing in Medical
+  Imaging}, pages 626--637. Springer, 2015.
+
+\bibitem{johnson2012brain}
+Keith~A Johnson, Nick~C Fox, Reisa~A Sperling, and William~E Klunk.
+\newblock Brain imaging in Alzheimer disease.
+\newblock {\em Cold Spring Harbor perspectives in medicine}, page a006213,
+  2012.
+
+\bibitem{greve2014cortical}
+Douglas~N Greve, Claus Svarer, Patrick~M Fisher, Ling Feng, Adam~E Hansen,
+  William Baare, Bruce Rosen, Bruce Fischl, and Gitte~M Knudsen.
+\newblock Cortical surface-based analysis reduces bias and variance in kinetic
+  modeling of brain {PET} data.
+\newblock {\em Neuroimage}, 92:225--236, 2014.
+
+\bibitem{greve2016different}
+Douglas~N Greve, David~H Salat, Spencer~L Bowen, David Izquierdo-Garcia,
+  Aaron~P Schultz, Ciprian Catana, J~Alex Becker, Claus Svarer, Gitte~M
+  Knudsen, Reisa~A Sperling, et~al.
+\newblock Different partial volume correction methods lead to different
+  conclusions: an 18F-FDG-PET study of aging.
+\newblock {\em Neuroimage}, 132:334--343, 2016.
+
+\bibitem{dickerson2008cortical}
+Bradford~C Dickerson, Akram Bakkour, David~H Salat, Eric Feczko, Jenni Pacheco,
+  Douglas~N Greve, Fran Grodstein, Christopher~I Wright, Deborah Blacker,
+  H~Diana Rosas, et~al.
+\newblock The cortical signature of {Alzheimer's} disease: regionally specific
+  cortical thinning relates to symptom severity in very mild to mild {AD}
+  dementia and is detectable in asymptomatic amyloid-positive individuals.
+\newblock {\em Cerebral cortex}, 19(3):497--510, 2008.
+
+\bibitem{singh2006spatial}
+Vivek Singh, Howard Chertkow, Jason~P Lerch, Alan~C Evans, Adrienne~E Dorr, and
+  Noor~Jehan Kabani.
+\newblock Spatial patterns of cortical thinning in mild cognitive impairment
+  and {Alzheimer's} disease.
+\newblock {\em Brain}, 129(11):2885--2893, 2006.
+
+\bibitem{lorenzi2017disease}
+Marco Lorenzi, Maurizio Filippone, Daniel~C Alexander, and Sebastien Ourselin.
+\newblock Disease Progression Modeling and Prediction through Random Effect
+  Gaussian Processes and Time Transformation.
+\newblock {\em arXiv preprint arXiv:1701.01668}, 2017.
+
+\bibitem{scelsi2018genetic}
+Marzia~A Scelsi, Raiyan~R Khan, Marco Lorenzi, Leigh Christopher, Michael~D
+  Greicius, Jonathan~M Schott, Sebastien Ourselin, and Andre Altmann.
+\newblock Genetic study of multimodal imaging {Alzheimer's} disease progression
+  score implicates novel loci.
+\newblock {\em Brain}, 2018.
+
+\bibitem{hon2017towards}
+Marcia Hon and Naimul Khan.
+\newblock Towards Alzheimer's disease classification through transfer learning.
+\newblock {\em arXiv preprint arXiv:1711.11117}, 2017.
+
+\bibitem{cheng2017multi}
+Bo~Cheng, Mingxia Liu, Dinggang Shen, Zuoyong Li, Daoqiang Zhang, and
+  Alzheimer’s Disease~Neuroimaging Initiative.
+\newblock Multi-domain transfer learning for early diagnosis of alzheimer’s
+  disease.
+\newblock {\em Neuroinformatics}, 15(2):115--132, 2017.
+
+\bibitem{cheng2015domain}
+Bo~Cheng, Mingxia Liu, Daoqiang Zhang, Brent~C Munsell, and Dinggang Shen.
+\newblock Domain transfer learning for MCI conversion prediction.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 62(7):1805--1817,
+  2015.
+
+\bibitem{Baron2001}
+JC~Baron, G~Chetelat, B~Desgranges, G~Perchey, B~Landeau, V~De~La~Sayette, and
+  F~Eustache.
+\newblock In vivo mapping of gray matter loss with voxel-based morphometry in
+  mild Alzheimer's disease.
+\newblock {\em Neuroimage}, 14(2):298--309, 2001.
+
+\bibitem{aisen2010clinical}
+Paul~S Aisen, Ronald~C Petersen, Michael~C Donohue, Anthony Gamst, Rema Raman,
+  Ronald~G Thomas, Sarah Walter, John~Q Trojanowski, Leslie~M Shaw, Laurel~A
+  Beckett, et~al.
+\newblock Clinical Core of the {Alzheimer}'s {Disease} {Neuroimaging}
+  {Initiative}: progress and plans.
+\newblock {\em Alzheimer's \& dementia: the journal of the {Alzheimer}'s
+  Association}, 6(3):239--246, 2010.
+
+\bibitem{frisoni2010clinical}
+Giovanni~B Frisoni, Nick~C Fox, Clifford~R Jack~Jr, Philip Scheltens, and
+  Paul~M Thompson.
+\newblock The clinical use of structural {MRI} in {Alzheimer} disease.
+\newblock {\em Nature Reviews Neurology}, 6(2):67, 2010.
+
+\bibitem{guerrero2016instantiated}
+Ricardo Guerrero, Alexander Schmidt-Richberg, Christian Ledig, Tong Tong, Robin
+  Wolz, Daniel Rueckert, and ADNI.
+\newblock Instantiated mixed effects modeling of {Alzheimer}'s disease markers.
+\newblock {\em NeuroImage}, 142:113--125, 2016.
+
+\bibitem{zhang2011multimodal}
+Daoqiang Zhang, Yaping Wang, Luping Zhou, Hong Yuan, Dinggang Shen, and ADNI.
+\newblock Multimodal classification of {Alzheimer}'s disease and mild cognitive
+  impairment.
+\newblock {\em Neuroimage}, 55(3):856--867, 2011.
+
+\bibitem{young2013accurate}
+Jonathan Young, Marc Modat, Manuel~J Cardoso, Alex Mendelson, Dave Cash,
+  Sebastien Ourselin, and Alzheimer's Disease~Neuroimaging Initiative.
+\newblock Accurate multimodal probabilistic prediction of conversion to
+  Alzheimer's disease in patients with mild cognitive impairment.
+\newblock {\em NeuroImage: Clinical}, 2:735--745, 2013.
+
+\bibitem{mattila2011disease}
+Jussi Mattila, Juha Koikkalainen, Arho Virkki, Anja Simonsen, Mark van Gils,
+  Gunhild Waldemar, Hilkka Soininen, and Jyrki L{\"o}tj{\"o}nen.
+\newblock A disease state fingerprint for evaluation of {Alzheimer}'s disease.
+\newblock {\em Journal of {Alzheimer}'s Disease}, 27(1):163--176, 2011.
+
+\bibitem{durrleman2013toward}
+Stanley Durrleman, Xavier Pennec, Alain Trouv{\'e}, Jos{\'e} Braga, Guido
+  Gerig, and Nicholas Ayache.
+\newblock Toward a comprehensive framework for the spatiotemporal statistical
+  analysis of longitudinal shape data.
+\newblock {\em International journal of computer vision}, 103(1):22--59, 2013.
+
+\bibitem{lorenzi2015disentangling}
+Marco Lorenzi, Xavier Pennec, Giovanni~B Frisoni, and Nicholas Ayache.
+\newblock Disentangling normal aging from {Alzheimer}'s disease in structural
+  magnetic resonance images.
+\newblock {\em Neurobiology of aging}, 36:S42--S52, 2015.
+
+\bibitem{weiner2017recent}
+Michael~W Weiner, Dallas~P Veitch, Paul~S Aisen, Laurel~A Beckett, Nigel~J
+  Cairns, Robert~C Green, Danielle Harvey, Clifford~R Jack, William Jagust,
+  John~C Morris, et~al.
+\newblock Recent publications from the {Alzheimer's} {Disease} {Neuroimaging}
+  {Initiative}: {Reviewing} progress toward improved {AD} clinical trials.
+\newblock {\em Alzheimer's \& dementia: the journal of the {Alzheimer's}
+  Association}, 13(4):e1--e85, 2017.
+
+\bibitem{allen2016crowdsourced}
+Genevera~I Allen, Nicola Amoroso, Catalina Anghel, Venkat Balagurusamy,
+  Christopher~J Bare, Derek Beaton, Roberto Bellotti, David~A Bennett, Kevin~L
+  Boehme, Paul~C Boutros, et~al.
+\newblock Crowdsourced estimation of cognitive decline and resilience in
+  {Alzheimer}'s disease.
+\newblock {\em Alzheimer's \& dementia: the journal of the {Alzheimer}'s
+  Association}, 12(6):645--653, 2016.
+
+\bibitem{petersen2010alzheimer}
+Ronald~Carl Petersen, PS~Aisen, LA~Beckett, MC~Donohue, AC~Gamst, DJ~Harvey,
+  CR~Jack, WJ~Jagust, LM~Shaw, AW~Toga, et~al.
+\newblock Alzheimer's {Disease} {Neuroimaging} {Initiative} (ADNI) clinical
+  characterization.
+\newblock {\em Neurology}, 74(3):201--209, 2010.
+
+\bibitem{jagust2010alzheimer}
+William~J Jagust, Dan Bandy, Kewei Chen, Norman~L Foster, Susan~M Landau,
+  Chester~A Mathis, Julie~C Price, Eric~M Reiman, Daniel Skovronsky, and
+  Robert~A Koeppe.
+\newblock The {Alzheimer's} {Disease} {Neuroimaging} {Initiative} positron
+  emission tomography core.
+\newblock {\em Alzheimer's \& dementia: the journal of the {Alzheimer}'s
+  Association}, 6(3):221--229, 2010.
+
+\bibitem{ashburner2009computational}
+John Ashburner.
+\newblock Computational anatomy with the {SPM} software.
+\newblock {\em Magnetic resonance imaging}, 27(8):1163--1174, 2009.
+
+\bibitem{nir2013effectiveness}
+Talia~M Nir, Neda Jahanshad, Julio~E Villalon-Reina, Arthur~W Toga, Clifford~R
+  Jack, Michael~W Weiner, Paul~M Thompson, and ADNI.
+\newblock Effectiveness of regional {DTI} measures in distinguishing
+  {Alzheimer}'s disease, {MCI}, and normal aging.
+\newblock {\em NeuroImage: clinical}, 3:180--195, 2013.
+
+\bibitem{oishi2009atlas}
+Kenichi Oishi, Andreia Faria, Hangyi Jiang, Xin Li, Kazi Akhter, Jiangyang
+  Zhang, John~T Hsu, Michael~I Miller, Peter~CM van Zijl, Marilyn Albert,
+  et~al.
+\newblock Atlas-based whole brain white matter analysis using large deformation
+  diffeomorphic metric mapping: application to normal elderly and {Alzheimer}'s
+  disease participants.
+\newblock {\em Neuroimage}, 46(2):486--499, 2009.
+
+\bibitem{hand2001simple}
+David~J Hand and Robert~J Till.
+\newblock A simple generalisation of the area under the {ROC} curve for
+  multiple class classification problems.
+\newblock {\em Machine learning}, 45(2):171--186, 2001.
+
+\bibitem{brodersen2010balanced}
+Kay~Henning Brodersen, Cheng~Soon Ong, Klaas~Enno Stephan, and Joachim~M
+  Buhmann.
+\newblock The balanced accuracy and its posterior distribution.
+\newblock In {\em International Conference on Pattern recognition (ICPR)},
+  pages 3121--3124. IEEE, 2010.
+
+\bibitem{butters1996focal}
+Meryl~A Butters, Oscar~L Lopez, and James~T Becker.
+\newblock Focal temporal lobe dysfunction in probable {Alzheimer's} disease
+  predicts a slow rate of cognitive decline.
+\newblock {\em Neurology}, 46(3):687--692, 1996.
+
+\bibitem{green1990progressive}
+J~Green, John~C Morris, J~Sandson, DW~McKeel, and JW~Miller.
+\newblock Progressive aphasia: A precursor of global dementia?
+\newblock {\em Neurology}, 40(3 Part 1):423--423, 1990.
+
+\bibitem{greene1996alzheimer}
+John~DW Greene, Karalyn Patterson, John Xuereb, and John~R Hodges.
+\newblock Alzheimer disease and nonfluent progressive aphasia.
+\newblock {\em Archives of Neurology}, 53(10):1072--1078, 1996.
+
+\bibitem{warren2013frontotemporal}
+Jason~D Warren, Jonathan~D Rohrer, and Martin~N Rossor.
+\newblock Frontotemporal dementia.
+\newblock {\em Bmj}, 347:f4827, 2013.
+
+\bibitem{goldenberg2012multiple}
+Marvin~M Goldenberg.
+\newblock Multiple sclerosis review.
+\newblock {\em Pharmacy and Therapeutics}, 37(3):175, 2012.
+
+\bibitem{eshaghi2018progression}
+Arman Eshaghi, Razvan~V Marinescu, Alexandra~L Young, Nicholas~C Firth, Ferran
+  Prados, M~Jorge~Cardoso, Carmen Tur, Floriana De~Angelis, Niamh Cawley,
+  Wallace~J Brownlee, et~al.
+\newblock Progression of regional grey matter atrophy in multiple sclerosis.
+\newblock {\em Brain}, 141(6):1665--1677, 2018.
+
+\bibitem{poewe2017parkinson}
+Werner Poewe, Klaus Seppi, Caroline~M Tanner, Glenda~M Halliday, Patrik
+  Brundin, Jens Volkmann, Anette-Eleonore Schrag, and Anthony~E Lang.
+\newblock Parkinson disease.
+\newblock {\em Nature reviews Disease primers}, 3:17013, 2017.
+
+\bibitem{caballol2007cognitive}
+Nuria Caballol, Maria~J Mart{\'\i}, and Eduardo Tolosa.
+\newblock Cognitive dysfunction and dementia in Parkinson disease.
+\newblock {\em Movement disorders: official journal of the Movement Disorder
+  Society}, 22(S17):S358--S366, 2007.
+
+\bibitem{roos2010huntington}
+Raymund~AC Roos.
+\newblock Huntington's disease: a clinical review.
+\newblock {\em Orphanet journal of rare diseases}, 5(1):40, 2010.
+
+\bibitem{georgiou2008magnetic}
+Nellie Georgiou-Karistianis, Anthony~J Hannan, and Gary~F Egan.
+\newblock Magnetic resonance imaging as an approach towards identifying
+  neuropathological biomarkers for Huntington's disease.
+\newblock {\em Brain research reviews}, 58(1):209--225, 2008.
+
+\bibitem{feigin2001metabolic}
+Andrew Feigin, Klaus~L Leenders, James~R Moeller, John Missimer, Gabriella
+  Kuenig, Phoebe Spetsieris, Angelo Antonini, and David Eidelberg.
+\newblock Metabolic Network Abnormalities in Early Huntington's Disease: An 18F
+  {FDG} {PET} Study.
+\newblock {\em Journal of Nuclear Medicine}, 42(11):1591--1595, 2001.
+
+\bibitem{wijeratne2018image}
+Peter~A Wijeratne, Alexandra~L Young, Neil~P Oxtoby, Razvan~V Marinescu,
+  Nicholas~C Firth, Eileanoir~B Johnson, Amrita Mohan, Cristina Sampaio,
+  Rachael~I Scahill, Sarah~J Tabrizi, et~al.
+\newblock An image-based model of brain volume biomarker changes in
+  Huntington's disease.
+\newblock {\em Annals of clinical and translational neurology}, 5(5):570--582,
+  2018.
+
+\bibitem{cash2014imaging}
+David~M Cash, Jonathan~D Rohrer, Natalie~S Ryan, Sebastien Ourselin, and Nick~C
+  Fox.
+\newblock Imaging endpoints for clinical trials in {Alzheimer's} disease.
+\newblock {\em Alzheimer's research \& therapy}, 6(9):87, 2014.
+
+\bibitem{kovacs2013non}
+Gabor~G Kovacs, Ivan Milenkovic, Adelheid W{\"o}hrer, Romana H{\"o}ftberger,
+  Ellen Gelpi, Christine Haberler, Selma H{\"o}nigschnabl, Angelika
+  Reiner-Concin, Harald Heinzl, Susanne Jungwirth, et~al.
+\newblock Non-Alzheimer neurodegenerative pathologies and their combinations
+  are more frequent than commonly believed in the elderly brain: a
+  community-based autopsy series.
+\newblock {\em Acta neuropathologica}, 126(3):365--384, 2013.
+
+\bibitem{james2016tdp}
+Bryan~D James, Robert~S Wilson, Patricia~A Boyle, John~Q Trojanowski, David~A
+  Bennett, and Julie~A Schneider.
+\newblock TDP-43 stage, mixed pathologies, and clinical Alzheimer’s-type
+  dementia.
+\newblock {\em Brain}, 139(11):2983--2993, 2016.
+
+\bibitem{trojanowski2010update}
+John~Q Trojanowski, Hugo Vandeerstichele, Magdalena Korecka, Christopher~M
+  Clark, Paul~S Aisen, Ronald~C Petersen, Kaj Blennow, Holly Soares, Adam
+  Simon, Piotr Lewczuk, et~al.
+\newblock Update on the biomarker core of the Alzheimer's Disease Neuroimaging
+  Initiative subjects.
+\newblock {\em Alzheimer's \& Dementia}, 6(3):230--238, 2010.
+
+\bibitem{stein2010voxelwise}
+Jason~L Stein, Xue Hua, Suh Lee, April~J Ho, Alex~D Leow, Arthur~W Toga,
+  Andrew~J Saykin, Li~Shen, Tatiana Foroud, Nathan Pankratz, et~al.
+\newblock Voxelwise genome-wide association study (vGWAS).
+\newblock {\em Neuroimage}, 53(3):1160--1174, 2010.
+
+\bibitem{ellis2009australian}
+Kathryn~A Ellis, Ashley~I Bush, David Darby, Daniela De~Fazio, Jonathan Foster,
+  Peter Hudson, Nicola~T Lautenschlager, Nat Lenzo, Ralph~N Martins, Paul
+  Maruff, et~al.
+\newblock The Australian Imaging, Biomarkers and Lifestyle (AIBL) study of
+  aging: methodology and baseline characteristics of 1112 individuals recruited
+  for a longitudinal study of {Alzheimer's} disease.
+\newblock {\em International Psychogeriatrics}, 21(4):672--687, 2009.
+
+\bibitem{morris2012developing}
+John~C Morris, Paul~S Aisen, Randall~J Bateman, Tammie~LS Benzinger, Nigel~J
+  Cairns, Anne~M Fagan, Bernardino Ghetti, Alison~M Goate, David~M Holtzman,
+  William~E Klunk, et~al.
+\newblock Developing an international network for Alzheimer research: the
+  Dominantly Inherited Alzheimer Network.
+\newblock {\em Clinical investigation}, 2(10):975, 2012.
+
+\bibitem{marek2011parkinson}
+Kenneth Marek, Danna Jennings, Shirley Lasch, Andrew Siderowf, Caroline Tanner,
+  Tanya Simuni, Chris Coffey, Karl Kieburtz, Emily Flagg, Sohini Chowdhury,
+  et~al.
+\newblock The parkinson progression marker initiative (PPMI).
+\newblock {\em Progress in neurobiology}, 95(4):629--635, 2011.
+
+\bibitem{tabrizi2009biological}
+Sarah~J Tabrizi, Douglas~R Langbehn, Blair~R Leavitt, Raymund~AC Roos,
+  Alexandra Durr, David Craufurd, Christopher Kennard, Stephen~L Hicks, Nick~C
+  Fox, Rachael~I Scahill, et~al.
+\newblock Biological and clinical manifestations of Huntington's disease in the
+  longitudinal TRACK-HD study: cross-sectional analysis of baseline data.
+\newblock {\em The Lancet Neurology}, 8(9):791--801, 2009.
+
+\bibitem{ikram2017rotterdam}
+M~Arfan Ikram, Guy~GO Brusselle, Sarwa~Darwish Murad, Cornelia~M van Duijn,
+  Oscar~H Franco, Andr{\'e} Goedegebure, Caroline~CW Klaver, Tamar~EC Nijsten,
+  Robin~P Peeters, Bruno~H Stricker, et~al.
+\newblock The Rotterdam Study: 2018 update on objectives, design and main
+  results.
+\newblock {\em European Journal of Epidemiology}, 32(9):807--850, 2017.
+
+\bibitem{hsu2014gait}
+Yu-Liang Hsu, Pau-Choo Chung, Wei-Hsin Wang, Ming-Chyi Pai, Chun-Yao Wang,
+  Chien-Wen Lin, Hao-Li Wu, and Jeen-Shing Wang.
+\newblock Gait and balance analysis for patients with {Alzheimer's} disease
+  using an inertial-sensor-based wearable instrument.
+\newblock {\em IEEE journal of biomedical and health informatics},
+  18(6):1822--1830, 2014.
+
+\bibitem{hutton1984eye}
+J~Thomas Hutton, JA~Nagel, and Ruth~B Loewenson.
+\newblock Eye tracking dysfunction in Alzheimer-type dementia.
+\newblock {\em Neurology}, 34(1):99--99, 1984.
+
+\bibitem{hoffmann2010temporal}
+Ildik{\'o} Hoffmann, Dezso Nemeth, Cristina~D Dye, Magdolna P{\'a}k{\'a}ski,
+  Tam{\'a}s Irinyi, and J{\'a}nos K{\'a}lm{\'a}n.
+\newblock Temporal parameters of spontaneous speech in {Alzheimer's} disease.
+\newblock {\em International journal of speech-language pathology},
+  12(1):29--34, 2010.
+
+\bibitem{hinton2003stochastic}
+Geoffrey~E Hinton and Sam~T Roweis.
+\newblock Stochastic neighbor embedding.
+\newblock In {\em Advances in neural information processing systems}, pages
+  857--864, 2003.
+
+\bibitem{khanal2016biophysical}
+Bishesh Khanal, Marco Lorenzi, Nicholas Ayache, and Xavier Pennec.
+\newblock A biophysical model of brain deformation to simulate and analyze
+  longitudinal MRIs of patients with {Alzheimer's} disease.
+\newblock {\em NeuroImage}, 134:35--52, 2016.
+
+\bibitem{jackson2003multistate}
+Christopher~H Jackson, Linda~D Sharples, Simon~G Thompson, Stephen~W Duffy, and
+  Elisabeth Couto.
+\newblock {Multistate Markov models for disease progression with classification
+  error}.
+\newblock {\em Journal of the Royal Statistical Society: Series D (The
+  Statistician)}, 52(2):193--209, 2003.
+
+\bibitem{guihenneuc2000modeling}
+Chantal Guihenneuc-Jouyaux, Sylvia Richardson, and Ira~M Longini.
+\newblock {Modeling markers of disease progression by a hidden Markov process:
+  application to characterizing CD4 cell decline}.
+\newblock {\em Biometrics}, 56(3):733--741, 2000.
+
+\bibitem{jack2013brain}
+Clifford~R Jack, Heather~J Wiste, Timothy~G Lesnick, Stephen~D Weigand, David~S
+  Knopman, Prashanthi Vemuri, Vernon~S Pankratz, Matthew~L Senjem, Jeffrey~L
+  Gunter, Michelle~M Mielke, et~al.
+\newblock Brain $\beta$-amyloid load approaches a plateau.
+\newblock {\em Neurology}, 80(10):890--896, 2013.
+
+\bibitem{oxtoby2014learning}
+Neil~P Oxtoby, Alexandra~L Young, Nick~C Fox, Pankaj Daga, David~M Cash,
+  Sebastien Ourselin, Jonathan~M Schott, Daniel~C Alexander, and Alzheimer’s
+  Disease~Neuroimaging Initiative.
+\newblock {Learning imaging biomarker trajectories from noisy {Alzheimer's}
+  disease data using a Bayesian multilevel model}.
+\newblock In {\em Bayesian and grAphical Models for Biomedical Imaging}, pages
+  85--94. Springer, 2014.
+
+\bibitem{Young2015data}
+Alexandra~L Young, Neil~P Oxtoby, Jonathan~M Schott, and Daniel~C Alexander.
+\newblock {Data-driven models of neurodegenerative disease}.
+
+\bibitem{stigler1989francis}
+Stephen~M Stigler.
+\newblock Francis Galton's account of the invention of correlation.
+\newblock {\em Statistical Science}, 4(2):73--79, 1989.
+
+\bibitem{lee1988thirteen}
+Joseph Lee~Rodgers and W~Alan Nicewander.
+\newblock Thirteen ways to look at the correlation coefficient.
+\newblock {\em The American Statistician}, 42(1):59--66, 1988.
+
+\bibitem{szekely2005hierarchical}
+Gabor~J Szekely and Maria~L Rizzo.
+\newblock Hierarchical clustering via joint between-within distances: Extending
+  Ward's minimum variance method.
+\newblock {\em Journal of classification}, 22(2):151--183, 2005.
+
+\bibitem{sokal1958statistical}
+Robert~R Sokal.
+\newblock A statistical method for evaluating systematic relationships.
+\newblock {\em Univ Kans Sci Bull}, 38:1409--1438, 1958.
+
+\bibitem{boser1992training}
+Bernhard~E Boser, Isabelle~M Guyon, and Vladimir~N Vapnik.
+\newblock A training algorithm for optimal margin classifiers.
+\newblock In {\em Proceedings of the fifth annual workshop on Computational
+  learning theory}, pages 144--152. ACM, 1992.
+
+\bibitem{cortes1995support}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine learning}, 20(3):273--297, 1995.
+
+\bibitem{luenberger1984linear}
+D~Luenberger and Y~Ye.
+\newblock Linear and nonlinear optimization.
+\newblock {\em Linear and Nonlinear Optimization}, 1984.
+
+\bibitem{aizerman1964theoretical}
+A~Aizerman, Emmanuel~M Braverman, and LI~Rozoner.
+\newblock Theoretical foundations of the potential function method in pattern
+  recognition learning.
+\newblock {\em Automation and remote control}, 25:821--837, 1964.
+
+\bibitem{moody1989fast}
+John Moody and Christian~J Darken.
+\newblock Fast learning in networks of locally-tuned processing units.
+\newblock {\em Neural computation}, 1(2):281--294, 1989.
+
+\bibitem{metropolis1953equation}
+Nicholas Metropolis, Arianna~W Rosenbluth, Marshall~N Rosenbluth, Augusta~H
+  Teller, and Edward Teller.
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em The journal of chemical physics}, 21(6):1087--1092, 1953.
+
+\bibitem{hastings1970monte}
+W~Keith Hastings.
+\newblock Monte Carlo sampling methods using Markov chains and their
+  applications.
+\newblock {\em Biometrika}, 57(1):97--109, 1970.
+
+\bibitem{dhikav2011potential}
+Vikas Dhikav and Kuljeet Anand.
+\newblock Potential predictors of hippocampal atrophy in {Alzheimer's} disease.
+\newblock {\em Drugs \& aging}, 28(1):1--11, 2011.
+
+\bibitem{crutch2013shining}
+Sebastian~J Crutch, Jonathan~M Schott, Gil~D Rabinovici, Bradley~F Boeve,
+  Stefano~F Cappa, Bradford~C Dickerson, Bruno Dubois, Neill~R Graff-Radford,
+  Pierre Krolak-Salmon, Manja Lehmann, et~al.
+\newblock Shining a light on posterior cortical atrophy.
+\newblock {\em Alzheimer's \& Dementia}, 9(4):463--465, 2013.
+
+\bibitem{jack2008alzheimer}
+Clifford~R Jack, Matt~A Bernstein, Nick~C Fox, Paul Thompson, Gene Alexander,
+  Danielle Harvey, Bret Borowski, Paula~J Britson, Jennifer L~Whitwell,
+  Chadwick Ward, et~al.
+\newblock The Alzheimer's disease neuroimaging initiative (ADNI): {MRI}
+  methods.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 27(4):685--691, 2008.
+
+\bibitem{rosen1984new}
+Wilma~G Rosen, Richard~C Mohs, and Kenneth~L Davis.
+\newblock A new rating scale for Alzheimer's disease.
+\newblock {\em The American journal of psychiatry}, 1984.
+
+\bibitem{rey1958examen}
+And{\'r}e Rey.
+\newblock L'examen clinique en psychologie.
+\newblock 1958.
+
+\bibitem{warrington1991visual}
+Elizabeth~K Warrington and Merle James.
+\newblock {\em The visual object and space perception battery}.
+\newblock Thames Valley Test Company Bury St Edmunds, 1991.
+
+\bibitem{warrington1984category}
+Elizabeth~K Warrington, Tim Shallice, et~al.
+\newblock Category specific semantic impairments.
+\newblock {\em Brain}, 107(3):829--853, 1984.
+
+\bibitem{wechsler2008wechsler}
+David Wechsler.
+\newblock Wechsler adult intelligence scale--Fourth Edition (WAIS--IV).
+\newblock {\em San Antonio, TX: NCS Pearson}, 2008.
+
+\bibitem{richardson2007measures}
+John~TE Richardson.
+\newblock Measures of short-term memory: a historical review.
+\newblock {\em Cortex}, 43(5):635--650, 2007.
+
+\bibitem{fox1997brain}
+Nick~C Fox and Peter~A Freeborough.
+\newblock Brain atrophy progression measured from registered serial {MRI}:
+  validation and application to Alzheimer's disease.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 7(6):1069--1075, 1997.
+
+\bibitem{nestor2003topography}
+PJ~Nestor, D~Caine, TD~Fryer, J~Clarke, and JR~Hodges.
+\newblock The topography of metabolic deficits in posterior cortical atrophy
+  (the visual variant of {Alzheimer's} disease) with FDG-PET.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  74(11):1521--1529, 2003.
+
+\bibitem{schmidtke2005posterior}
+Klaus Schmidtke, PD~Dr~Michael H{\"u}ll, and Jochen Talazko.
+\newblock Posterior cortical atrophy: variant of {Alzheimer's} disease?
+\newblock {\em Journal of neurology}, 252(1):27--35, 2005.
+
+\bibitem{bullock2004future}
+Roger Bullock.
+\newblock Future directions in the treatment of Alzheimer's disease.
+\newblock {\em Expert opinion on investigational drugs}, 13(4):303--314, 2004.
+
+\bibitem{klafki2006therapeutic}
+Hans-Wolfgang Klafki, Matthias Staufenbiel, Johannes Kornhuber, and Jens
+  Wiltfang.
+\newblock Therapeutic approaches to Alzheimer's disease.
+\newblock {\em Brain}, 129(11):2840--2855, 2006.
+
+\bibitem{cummings2004alzheimers}
+Jeffrey~L. Cummings.
+\newblock Alzheimers Disease.
+\newblock {\em New England Journal of Medicine}, 351(1):56--67, 2004.
+\newblock PMID: 15229308.
+
+\bibitem{forsyth1998overview}
+Elizabeth Forsyth and Pamela~D Ritzline.
+\newblock An overview of the etiology, diagnosis, and treatment of Alzheimer
+  disease.
+\newblock {\em Physical therapy}, 78(12):1325--1331, 1998.
+
+\bibitem{yang2010quantifying}
+Eric Yang, Michael Farnum, Victor Lobanov, Tim Schultz, R~Verbeeck, N~Raghavan,
+  MN~Samtani, G~Novak, V~Narayan, and A~DiBernardo.
+\newblock Quantifying the pathophysiological timeline of Alzheimer's disease.
+\newblock {\em Journal of Alzheimer's disease: JAD}, 26(4):745--753, 2010.
+
+\bibitem{grossberg2003management}
+George~T Grossberg and Abhilash~K Desai.
+\newblock Management of Alzheimer's disease.
+\newblock {\em The Journals of Gerontology Series A: Biological Sciences and
+  Medical Sciences}, 58(4):M331--M353, 2003.
+
+\bibitem{kim2005case}
+Eunhee Kim, Yunsoo Lee, Jongkeol Lee, and Seol-Heui Han.
+\newblock A case with cholinesterase inhibitor responsive asymmetric posterior
+  cortical atrophy.
+\newblock {\em Clinical neurology and neurosurgery}, 108(1):97--101, 2005.
+
+\bibitem{wakai1994unusual}
+M~Wakai, H~Honda, A~Takahashi, T~Kato, K~Ito, and T~Hamanaka.
+\newblock Unusual findings on {PET} study of a patient with posterior cortical
+  atrophy.
+\newblock {\em Acta neurologica scandinavica}, 89(6):458--461, 1994.
+
+\bibitem{schmidt2015multi}
+Alexander Schmidt-Richberg, Ricardo Guerrero, Christian Ledig, Helena
+  Molina-Abril, Alejandro~F Frangi, Daniel Rueckert, and Alzheimers
+  Disease~Neuroimaging Initiative.
+\newblock Multi-stage Biomarker Models for Progression Estimation in
+  {Alzheimer's} Disease.
+\newblock In {\em International Conference on Information Processing in Medical
+  Imaging}, pages 387--398. Springer, 2015.
+
+\bibitem{young2015simulation}
+Alexandra~L Young, Neil~P Oxtoby, Sebastien Ourselin, Jonathan~M Schott,
+  Daniel~C Alexander, and Alzheimer's Disease~Neuroimaging Initiative.
+\newblock A simulation system for biomarker evolution in neurodegenerative
+  disease.
+\newblock {\em Medical image analysis}, 26(1):47--56, 2015.
+
+\bibitem{convit1995hippocampal}
+Antonio Convit, Mony de~Leon, Chaim Tarshish, Susan De~Santi, Alan Kluger,
+  Henry Rusinek, and AjaxE George.
+\newblock Hippocampal volume losses in minimally impaired elderly.
+\newblock {\em The Lancet}, 345(8944):266, 1995.
+
+\bibitem{xu2000usefulness}
+Y~Xu, CR~Jack, PC~O’brien, E~Kokmen, Glenn~E Smith, Robert~J Ivnik, Bradley~F
+  Boeve, RG~Tangalos, and Ronald~C Petersen.
+\newblock Usefulness of {MRI} measures of entorhinal cortex versus hippocampus
+  in AD.
+\newblock {\em Neurology}, 54(9):1760--1767, 2000.
+
+\bibitem{kiyosawa1989alzheimer}
+Motohiro Kiyosawa, Thomas~M Bosley, John Chawluk, Dara Jamieson, Norman~J
+  Schatz, Peter~J Savino, Robert~C Sergott, Martin Reivich, and Abass Alavi.
+\newblock Alzheimer's disease with prominent visual symptoms: clinical and
+  metabolic evaluation.
+\newblock {\em Ophthalmology}, 96(7):1077--1086, 1989.
+
+\bibitem{pennanen2004hippocampus}
+Corina Pennanen, Miia Kivipelto, Susanna Tuomainen, P{\"a}ivi Hartikainen,
+  Tuomo H{\"a}nninen, Mikko~P Laakso, Merja Hallikainen, Matti Vanhanen,
+  Aulikki Nissinen, Eeva-Liisa Helkala, et~al.
+\newblock Hippocampus and entorhinal cortex in mild cognitive impairment and
+  early AD.
+\newblock {\em Neurobiology of aging}, 25(3):303--310, 2004.
+
+\bibitem{braak1994morphological}
+Heiko Braak and Eva Braak.
+\newblock Morphological criteria for the recognition of Alzheimer's disease and
+  the distribution pattern of cortical changes related to this disorder.
+\newblock {\em Neurobiology of aging}, 15(3):355--356, 1994.
+
+\bibitem{laakso2000hippocampus}
+Mikko~P Laakso, Giovanni~B Frisoni, Mervi K{\"o}n{\"o}nen, Mia Mikkonen,
+  Alberto Beltramello, Claudia Geroldi, Angelo Bianchetti, Marco Trabucchi,
+  Hilkka Soininen, and Hannu~J Aronen.
+\newblock Hippocampus and entorhinal cortex in frontotemporal dementia and
+  {Alzheimer's} disease: a morphometric {MRI} study.
+\newblock {\em Biological psychiatry}, 47(12):1056--1063, 2000.
+
+\bibitem{maroco2011data}
+Jo{\~a}o Maroco, Dina Silva, Ana Rodrigues, Manuela Guerreiro, Isabel Santana,
+  and Alexandre de~Mendon{\c{c}}a.
+\newblock Data mining methods in the prediction of Dementia: A real-data
+  comparison of the accuracy, sensitivity and specificity of linear
+  discriminant analysis, logistic regression, neural networks, support vector
+  machines, classification trees and random forests.
+\newblock {\em BMC research notes}, 4(1):299, 2011.
+
+\bibitem{Ossenkoppele2014atrophy}
+Rik Ossenkoppele, Brendan~I Cohn-Sheehy, Renaud La~Joie, Jacob~W Vogel,
+  Christiane M{\"o}ller, Manja Lehmann, Bart~NM van Berckel, William~W Seeley,
+  Yolande~A Pijnenburg, Maria~L Gorno-Tempini, et~al.
+\newblock Atrophy patterns in early clinical stages across distinct phenotypes
+  of A lzheimer's disease.
+\newblock {\em Human brain mapping}, 36(11):4421--4437, 2015.
+
+\bibitem{winblad2016defeating}
+Bengt Winblad, Philippe Amouyel, Sandrine Andrieu, Clive Ballard, Carol Brayne,
+  Henry Brodaty, Angel Cedazo-Minguez, Bruno Dubois, David Edvardsson, Howard
+  Feldman, et~al.
+\newblock Defeating {Alzheimer's} disease and other dementias: a priority for
+  European science and society.
+\newblock {\em The Lancet Neurology}, 15(5):455--532, 2016.
+
+\bibitem{braak2016potential}
+Heiko Braak and Kelly Del~Tredici.
+\newblock Potential pathways of abnormal tau and $\alpha$-synuclein
+  dissemination in sporadic {Alzheimer's} and Parkinson's diseases.
+\newblock {\em Cold Spring Harbor perspectives in biology}, page a023630, 2016.
+
+\bibitem{frost2010prion}
+Bess Frost and Marc~I Diamond.
+\newblock Prion-like mechanisms in neurodegenerative diseases.
+\newblock {\em Nature Reviews Neuroscience}, 11(3):155, 2010.
+
+\bibitem{hardy2012spread}
+John Hardy and Tamas Revesz.
+\newblock The spread of neurodegenerative disease.
+\newblock {\em New England Journal of Medicine}, 366(22):2126--2128, 2012.
+
+\bibitem{ahmed2014novel}
+Zeshan Ahmed, Jane Cooper, Tracey~K Murray, Katya Garn, Emily McNaughton,
+  Hannah Clarke, Samira Parhizkar, Mark~A Ward, Annalisa Cavallini, Samuel
+  Jackson, et~al.
+\newblock A novel in vivo model of tau propagation with rapid and progressive
+  neurofibrillary tangle pathology: the pattern of spread is determined by
+  connectivity, not proximity.
+\newblock {\em Acta neuropathologica}, 127(5):667--683, 2014.
+
+\bibitem{brettschneider2015spreading}
+Johannes Brettschneider, Kelly Del~Tredici, Virginia M-Y Lee, and John~Q
+  Trojanowski.
+\newblock Spreading of pathology in neurodegenerative diseases: a focus on
+  human studies.
+\newblock {\em Nature Reviews Neuroscience}, 16(2):109, 2015.
+
+\bibitem{goedert2015alzheimer}
+Michel Goedert.
+\newblock Alzheimer’s and Parkinson’s diseases: The prion concept in
+  relation to assembled A$\beta$, tau, and $\alpha$-synuclein.
+\newblock {\em Science}, 349(6248):1255555, 2015.
+
+\bibitem{cummings2005neurodegenerative}
+Jeffrey~L Cummings.
+\newblock Neurodegenerative Disorders as Proteinopathies: Phenotypic
+  Relationships.
+\newblock In {\em Genotype--Proteotype--Phenotype Relationships in
+  Neurodegenerative Diseases}, pages 1--10. Springer, 2005.
+
+\bibitem{filippi2011structural}
+Massimo Filippi and Federica Agosta.
+\newblock Structural and functional network connectivity breakdown in
+  {Alzheimer's} disease studied with magnetic resonance imaging techniques.
+\newblock {\em Journal of {Alzheimer's} Disease}, 24(3):455--474, 2011.
+
+\bibitem{warren2013molecular}
+Jason~D Warren, Jonathan~D Rohrer, Jonathan~M Schott, Nick~C Fox, John Hardy,
+  and Martin~N Rossor.
+\newblock Molecular nexopathies: a new paradigm of neurodegenerative disease.
+\newblock {\em Trends in neurosciences}, 36(10):561--569, 2013.
+
+\bibitem{hof1990selective}
+Patrick~R Hof, Constantin Bouras, Jean Constantinidis, and John~H Morrison.
+\newblock Selective disconnection of specific visual association pathways in
+  cases of {Alzheimer's} disease presenting with Balint's syndrome.
+\newblock {\em Journal of neuropathology and experimental neurology},
+  49(2):168--184, 1990.
+
+\bibitem{tang2003pathologically}
+DF~Tang-Wai, KA~Josephs, Bradley~F Boeve, DW~Dickson, JE~Parisi, and
+  RC~Petersen.
+\newblock Pathologically confirmed corticobasal degeneration presenting with
+  visuospatial dysfunction.
+\newblock {\em Neurology}, 61(8):1134--1135, 2003.
+
+\bibitem{tang2003coexistent}
+DF~Tang-Wai, KA~Josephs, Bradley~F Boeve, RC~Petersen, JE~Parisi, and
+  DW~Dickson.
+\newblock Coexistent Lewy body disease in a case of “visual variant of
+  {Alzheimer's} disease”.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  74(3):389--389, 2003.
+
+\bibitem{renner2004progressive}
+JA~Renner, JM~Burns, CE~Hou, DW~McKeel, M~Storandt, and JC~Morris.
+\newblock Progressive posterior cortical dysfunction A clinicopathologic
+  series.
+\newblock {\em Neurology}, 63(7):1175--1180, 2004.
+
+\bibitem{lehmann2016novel}
+Manja Lehmann, Andrew Melbourne, John~C Dickson, Rebekah~M Ahmed, Marc Modat,
+  M~Jorge Cardoso, David~L Thomas, Enrico De~Vita, Sebastian~J Crutch, Jason~D
+  Warren, et~al.
+\newblock A novel use of arterial spin labelling {MRI} to demonstrate focal
+  hypoperfusion in individuals with posterior cortical atrophy: a multimodal
+  imaging study.
+\newblock {\em J Neurol Neurosurg Psychiatry}, pages jnnp--2015, 2016.
+
+\bibitem{ossenkoppele2015cerebrospinal}
+Rik Ossenkoppele, Niklas Mattsson, Charlotte~E Teunissen, Frederik Barkhof,
+  Yolande Pijnenburg, Philip Scheltens, Wiesje~M van~der Flier, and Gil~D
+  Rabinovici.
+\newblock Cerebrospinal fluid biomarkers and cerebral atrophy in distinct
+  clinical variants of probable {Alzheimer's} disease.
+\newblock {\em Neurobiology of aging}, 36(8):2340--2347, 2015.
+
+\bibitem{ossenkoppele2016tau}
+Rik Ossenkoppele, Daniel~R Schonhaut, Michael Sch{\"o}ll, Samuel~N Lockhart,
+  Nagehan Ayakta, Suzanne~L Baker, James~P O’Neil, Mustafa Janabi, Andreas
+  Lazaris, Averill Cantwell, et~al.
+\newblock Tau {PET} patterns mirror clinical and neuroanatomical variability in
+  {Alzheimer's} disease.
+\newblock {\em Brain}, 139(5):1551--1567, 2016.
+
+\bibitem{dorothee2012distinct}
+Guillaume Doroth{\'e}e, Michel Bottlaender, Edmond Moukari, Leonardo~C
+  De~Souza, Renaud Maroy, Fabian Corlier, Olivier Colliot, Marie Chupin, Foudil
+  Lamari, Stephane Leh{\'e}ricy, et~al.
+\newblock Distinct patterns of antiamyloid-$\beta$ antibodies in typical and
+  atypical Alzheimer disease.
+\newblock {\em Archives of neurology}, 69(9):1181--1185, 2012.
+
+\bibitem{kreisl2017distinct}
+William~C Kreisl, Chul~Hyoung Lyoo, Jeih-San Liow, Joseph Snow, Emily Page,
+  Kimberly~J Jenko, Cheryl~L Morse, Sami~S Zoghbi, Victor~W Pike, R~Scott
+  Turner, et~al.
+\newblock Distinct patterns of increased translocator protein in posterior
+  cortical atrophy and amnestic {Alzheimer's} disease.
+\newblock {\em Neurobiology of aging}, 51:132--140, 2017.
+
+\bibitem{yong2016longitudinal}
+Keir Yong, Kishan Rajdev, Elizabeth Warrington, Jennifer Nicholas, Jason
+  Warren, and Sebastian Crutch.
+\newblock A longitudinal investigation of the relationship between crowding and
+  reading: A neurodegenerative approach.
+\newblock {\em Neuropsychologia}, 85:127--136, 2016.
+
+\bibitem{primativo2017oral}
+Silvia Primativo, Keir~XX Yong, Timothy~J Shakespeare, and Sebastian~J Crutch.
+\newblock The oral spelling profile of posterior cortical atrophy and the
+  nature of the graphemic representation.
+\newblock {\em Neuropsychologia}, 94:61--74, 2017.
+
+\bibitem{ossenkoppele2015atrophy}
+Rik Ossenkoppele, Brendan~I Cohn-Sheehy, Renaud La~Joie, Jacob~W Vogel,
+  Christiane M{\"o}ller, Manja Lehmann, Bart~NM van Berckel, William~W Seeley,
+  Yolande~A Pijnenburg, Maria~L Gorno-Tempini, et~al.
+\newblock Atrophy patterns in early clinical stages across distinct phenotypes
+  of A lzheimer's disease.
+\newblock {\em Human brain mapping}, 36(11):4421--4437, 2015.
+
+\bibitem{duits2014cerebrospinal}
+Flora~H Duits, Charlotte~E Teunissen, Femke~H Bouwman, Pieter-Jelle Visser,
+  Niklas Mattsson, Henrik Zetterberg, Kaj Blennow, Oskar Hansson, Lennart
+  Minthon, Niels Andreasen, et~al.
+\newblock The cerebrospinal fluid “Alzheimer profile”: easily said, but
+  what does it mean?
+\newblock {\em Alzheimer's \& Dementia}, 10(6):713--723, 2014.
+
+\bibitem{shaw2009cerebrospinal}
+Leslie~M Shaw, Hugo Vanderstichele, Malgorzata Knapik-Czajka, Christopher~M
+  Clark, Paul~S Aisen, Ronald~C Petersen, Kaj Blennow, Holly Soares, Adam
+  Simon, Piotr Lewczuk, et~al.
+\newblock Cerebrospinal fluid biomarker signature in {Alzheimer's} disease
+  neuroimaging initiative subjects.
+\newblock {\em Annals of neurology}, 65(4):403--413, 2009.
+
+\bibitem{dickerson2010dysexecutive}
+Bradford~C Dickerson, David~A Wolk, and Alzheimer's Disease~Neuroimaging
+  Initiative.
+\newblock Dysexecutive versus amnesic phenotypes of very mild {Alzheimer's}
+  disease are associated with distinct clinical, genetic and cortical thinning
+  characteristics.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry}, pages
+  jnnp--2009, 2010.
+
+\bibitem{whitwell2012neuroimaging}
+Jennifer~L Whitwell, Stephen~D Weigand, Bradley~F Boeve, Matthew~L Senjem,
+  Jeffrey~L Gunter, Mariely DeJesus-Hernandez, Nicola~J Rutherford, Matthew
+  Baker, David~S Knopman, Zbigniew~K Wszolek, et~al.
+\newblock Neuroimaging signatures of frontotemporal dementia genetics: C9ORF72,
+  tau, progranulin and sporadics.
+\newblock {\em Brain}, 135(3):794--806, 2012.
+
+\bibitem{chui1985clinical}
+Helena~Chang Chui, Evelyn~Lee Teng, Victor~W Henderson, and Arthur~C Moy.
+\newblock Clinical subtypes of dementia of the Alzheimer type.
+\newblock {\em Neurology}, 35(11):1544--1544, 1985.
+
+\bibitem{fisher1996neuropsychological}
+Nancy~J Fisher, Byron~P Rourke, Linas Bieliauskas, Bruno Giordani, Stanley
+  Berent, and Norman~L Foster.
+\newblock Neuropsychological subgroups of patients with {Alzheimer's} disease.
+\newblock {\em Journal of clinical and experimental neuropsychology},
+  18(3):349--370, 1996.
+
+\bibitem{johnson1999clinical}
+Julene~K Johnson, Elizabeth Head, Ronald Kim, Arnold Starr, and Carl~W Cotman.
+\newblock Clinical and pathological evidence for a frontal variant of Alzheimer
+  disease.
+\newblock {\em Archives of neurology}, 56(10):1233--1239, 1999.
+
+\bibitem{lam2013clinical}
+Benjamin Lam, Mario Masellis, Morris Freedman, Donald~T Stuss, and Sandra~E
+  Black.
+\newblock Clinical, imaging, and pathological heterogeneity of the
+  {Alzheimer's} disease syndrome.
+\newblock {\em Alzheimer's research \& therapy}, 5(1):1, 2013.
+
+\bibitem{cappa2001brain}
+Atonella Cappa, ML~Calcagni, Giampiero Villa, Alessandro Giordano, Camillo
+  Marra, Giuseppe De~Rossi, M~Puopolo, and Guido Gainotti.
+\newblock Brain perfusion abnormalities in {Alzheimer's} disease: comparison
+  between patients with focal temporal lobe dysfunction and patients with
+  diffuse cognitive impairment.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry}, 70(1):22--27,
+  2001.
+
+\bibitem{alladi2007focal}
+Suvarna Alladi, John Xuereb, Thomas Bak, Peter Nestor, Jonathan Knibb, Karalyn
+  Patterson, and JR~Hodges.
+\newblock Focal cortical presentations of {Alzheimer's} disease.
+\newblock {\em Brain}, 130(10):2636--2645, 2007.
+
+\bibitem{marinescu2017vertex}
+R{\u{a}}zvan~Valentin Marinescu, Arman Eshaghi, Marco Lorenzi, Alexandra~L
+  Young, Neil~P Oxtoby, Sara Garbarino, Timothy~J Shakespeare, Sebastian~J
+  Crutch, Daniel~C Alexander, and Alzheimer’s Disease~Neuroimaging
+  Initiative.
+\newblock A vertex clustering model for disease progression: application to
+  cortical thickness images.
+\newblock In {\em International Conference on Information Processing in Medical
+  Imaging}, pages 134--145. Springer, 2017.
+
+\bibitem{duara2008medial}
+R~Duara, DA~Loewenstein, E~Potter, J~Appel, MT~Greig, R~Urs, Q~Shen, A~Raj,
+  B~Small, W~Barker, et~al.
+\newblock Medial temporal lobe atrophy on {MRI} scans and the diagnosis of
+  Alzheimer disease.
+\newblock {\em Neurology}, 71(24):1986--1992, 2008.
+
+\end{thebibliography}
